@@ -14,6 +14,8 @@ public class JimButtonController : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
+    
+    
     public void PickRandomAnimation()
     {
         var rand = Random.Range(0.0f, 1.0f);
