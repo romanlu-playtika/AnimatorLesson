@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class JimAnimationEvent : MonoBehaviour
 {
     private JimController jimController;
@@ -22,13 +23,16 @@ public class JimAnimationEvent : MonoBehaviour
         }
     }
 
-    private void PlayJumpSound()
+    private void PlaySound(AudioClip clip)
     {
-        audioSource.Play();
+        audioSource.PlayOneShot(clip);
     }
 
     private void ResetIdle()
     {
-        jimController.ResetIdleTimer();
+        if (jimController != null)
+        {
+            jimController.ResetIdleTimer();
+        }
     }
 }
