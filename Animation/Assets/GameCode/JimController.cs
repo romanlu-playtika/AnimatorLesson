@@ -69,7 +69,9 @@ public class JimController : MonoBehaviour
         currentIdleTime += Time.deltaTime;
         if (currentIdleTime > idleTimer)
         {
+            Debug.Log("setting trigger");
             anim.SetTrigger(isIdle);
+            ResetIdleTimer();
         }
     }
 
