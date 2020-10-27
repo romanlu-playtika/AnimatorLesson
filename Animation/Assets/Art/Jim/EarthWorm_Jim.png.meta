@@ -1,0 +1,6776 @@
+fileFormatVersion: 2
+guid: 8c9830fabba5e4fd58fc7849006c8444
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5767679167755310096
+    second: EarthWorm_Jim_0
+  - first:
+      213: -6153120858466740033
+    second: EarthWorm_Jim_1
+  - first:
+      213: 1179066272530113346
+    second: EarthWorm_Jim_2
+  - first:
+      213: 8114632499923635886
+    second: EarthWorm_Jim_3
+  - first:
+      213: 7950942007561852175
+    second: EarthWorm_Jim_4
+  - first:
+      213: -8607136644502055295
+    second: EarthWorm_Jim_5
+  - first:
+      213: -8672590418611451139
+    second: EarthWorm_Jim_6
+  - first:
+      213: 2652296494421016541
+    second: EarthWorm_Jim_7
+  - first:
+      213: -6459276684611098088
+    second: EarthWorm_Jim_8
+  - first:
+      213: -5756643776745125585
+    second: EarthWorm_Jim_9
+  - first:
+      213: -8280699808803077114
+    second: EarthWorm_Jim_10
+  - first:
+      213: 2876085147989017485
+    second: EarthWorm_Jim_11
+  - first:
+      213: -6302687257086315779
+    second: EarthWorm_Jim_12
+  - first:
+      213: 6360221781722462661
+    second: EarthWorm_Jim_13
+  - first:
+      213: -5321151653080820312
+    second: EarthWorm_Jim_14
+  - first:
+      213: 5117230532293933221
+    second: EarthWorm_Jim_15
+  - first:
+      213: -2918437254760288805
+    second: EarthWorm_Jim_16
+  - first:
+      213: -558458846021068253
+    second: EarthWorm_Jim_17
+  - first:
+      213: 9145778615980577468
+    second: EarthWorm_Jim_18
+  - first:
+      213: 8138577508925735094
+    second: EarthWorm_Jim_19
+  - first:
+      213: 4534573820979399969
+    second: EarthWorm_Jim_20
+  - first:
+      213: 7461163636067792955
+    second: EarthWorm_Jim_21
+  - first:
+      213: 5103015512898227142
+    second: EarthWorm_Jim_22
+  - first:
+      213: -6212997376225141584
+    second: EarthWorm_Jim_23
+  - first:
+      213: -4555199348845844393
+    second: EarthWorm_Jim_24
+  - first:
+      213: -8293555552932489453
+    second: EarthWorm_Jim_25
+  - first:
+      213: 8046251495187423832
+    second: EarthWorm_Jim_26
+  - first:
+      213: -828159656913070126
+    second: EarthWorm_Jim_27
+  - first:
+      213: 1504662497197846000
+    second: EarthWorm_Jim_28
+  - first:
+      213: -3869507780673350306
+    second: EarthWorm_Jim_29
+  - first:
+      213: 2356747910559446996
+    second: EarthWorm_Jim_30
+  - first:
+      213: -720014735311212777
+    second: EarthWorm_Jim_31
+  - first:
+      213: -7575209486474775698
+    second: EarthWorm_Jim_32
+  - first:
+      213: 8077568638094451475
+    second: EarthWorm_Jim_33
+  - first:
+      213: 2195582712566284452
+    second: EarthWorm_Jim_34
+  - first:
+      213: -8547742505869032302
+    second: EarthWorm_Jim_35
+  - first:
+      213: -5931270060614469785
+    second: EarthWorm_Jim_36
+  - first:
+      213: -8795104545468187197
+    second: EarthWorm_Jim_37
+  - first:
+      213: 4435057174460283421
+    second: EarthWorm_Jim_38
+  - first:
+      213: -7324741185027403613
+    second: EarthWorm_Jim_39
+  - first:
+      213: 1481640249016361615
+    second: EarthWorm_Jim_40
+  - first:
+      213: -7156244813764275448
+    second: EarthWorm_Jim_41
+  - first:
+      213: 5807746722150009176
+    second: EarthWorm_Jim_42
+  - first:
+      213: 2719166191119067052
+    second: EarthWorm_Jim_43
+  - first:
+      213: -3576214295621794981
+    second: EarthWorm_Jim_44
+  - first:
+      213: -6285133156472489471
+    second: EarthWorm_Jim_45
+  - first:
+      213: 2616713832644980704
+    second: EarthWorm_Jim_46
+  - first:
+      213: 2101798456535858737
+    second: EarthWorm_Jim_47
+  - first:
+      213: -1196766322458064006
+    second: EarthWorm_Jim_48
+  - first:
+      213: -6265786580265891904
+    second: EarthWorm_Jim_49
+  - first:
+      213: 8830487236890599764
+    second: EarthWorm_Jim_50
+  - first:
+      213: -7221187952937926432
+    second: EarthWorm_Jim_51
+  - first:
+      213: -4634928116529112906
+    second: EarthWorm_Jim_52
+  - first:
+      213: 8696049248717645905
+    second: EarthWorm_Jim_53
+  - first:
+      213: -8762747602865541030
+    second: EarthWorm_Jim_54
+  - first:
+      213: 687039874064980892
+    second: EarthWorm_Jim_55
+  - first:
+      213: 1743942281873129213
+    second: EarthWorm_Jim_56
+  - first:
+      213: 8887736435968351294
+    second: EarthWorm_Jim_57
+  - first:
+      213: -8193640557769947825
+    second: EarthWorm_Jim_58
+  - first:
+      213: -9185782057955574657
+    second: EarthWorm_Jim_59
+  - first:
+      213: 2946422240513483199
+    second: EarthWorm_Jim_60
+  - first:
+      213: -3953002612390180972
+    second: EarthWorm_Jim_61
+  - first:
+      213: 3337398913723643983
+    second: EarthWorm_Jim_62
+  - first:
+      213: 80423229160315359
+    second: EarthWorm_Jim_63
+  - first:
+      213: -8162450484583001299
+    second: EarthWorm_Jim_64
+  - first:
+      213: 7385108852177177448
+    second: EarthWorm_Jim_65
+  - first:
+      213: -3091938833053636922
+    second: EarthWorm_Jim_66
+  - first:
+      213: 8758641942225891983
+    second: EarthWorm_Jim_67
+  - first:
+      213: -6354253942961319012
+    second: EarthWorm_Jim_68
+  - first:
+      213: 3525745347492250111
+    second: EarthWorm_Jim_69
+  - first:
+      213: 1895113000322382396
+    second: EarthWorm_Jim_70
+  - first:
+      213: -2427707235512925054
+    second: EarthWorm_Jim_71
+  - first:
+      213: 2845955228914798747
+    second: EarthWorm_Jim_72
+  - first:
+      213: -6420914903986767358
+    second: EarthWorm_Jim_73
+  - first:
+      213: 885792361951334459
+    second: EarthWorm_Jim_74
+  - first:
+      213: -6214968787712393629
+    second: EarthWorm_Jim_75
+  - first:
+      213: 5137693138445309662
+    second: EarthWorm_Jim_76
+  - first:
+      213: -8269206205821209140
+    second: EarthWorm_Jim_77
+  - first:
+      213: 3457852694330895826
+    second: EarthWorm_Jim_78
+  - first:
+      213: -6075491157107668932
+    second: EarthWorm_Jim_79
+  - first:
+      213: 3042747567072160131
+    second: EarthWorm_Jim_80
+  - first:
+      213: 658425166949805231
+    second: EarthWorm_Jim_81
+  - first:
+      213: -2559160734876992618
+    second: EarthWorm_Jim_82
+  - first:
+      213: 2383000990484731357
+    second: EarthWorm_Jim_83
+  - first:
+      213: -3002769453006596328
+    second: EarthWorm_Jim_84
+  - first:
+      213: -9057550891072645894
+    second: EarthWorm_Jim_85
+  - first:
+      213: -6841379005826708372
+    second: EarthWorm_Jim_86
+  - first:
+      213: 6148647667171805485
+    second: EarthWorm_Jim_87
+  - first:
+      213: -2868095655371369306
+    second: EarthWorm_Jim_88
+  - first:
+      213: -6459016742513941833
+    second: EarthWorm_Jim_89
+  - first:
+      213: -6347629587505675061
+    second: EarthWorm_Jim_90
+  - first:
+      213: 8305667070401506930
+    second: EarthWorm_Jim_91
+  - first:
+      213: -8884925553222946294
+    second: EarthWorm_Jim_92
+  - first:
+      213: -5815052572302486706
+    second: EarthWorm_Jim_93
+  - first:
+      213: -6507547788426196463
+    second: EarthWorm_Jim_94
+  - first:
+      213: -3203585540077608553
+    second: EarthWorm_Jim_95
+  - first:
+      213: 8026425634457260687
+    second: EarthWorm_Jim_96
+  - first:
+      213: -2499671641027731956
+    second: EarthWorm_Jim_97
+  - first:
+      213: 5338890451076038310
+    second: EarthWorm_Jim_98
+  - first:
+      213: -2321397843221788260
+    second: EarthWorm_Jim_99
+  - first:
+      213: -4376097221875149970
+    second: EarthWorm_Jim_100
+  - first:
+      213: -2110887351526915151
+    second: EarthWorm_Jim_101
+  - first:
+      213: -829180711280657983
+    second: EarthWorm_Jim_102
+  - first:
+      213: 7535465749278044971
+    second: EarthWorm_Jim_103
+  - first:
+      213: 7855148511003043972
+    second: EarthWorm_Jim_104
+  - first:
+      213: 336292146433654198
+    second: EarthWorm_Jim_105
+  - first:
+      213: -701477845486992183
+    second: EarthWorm_Jim_106
+  - first:
+      213: 3824892670369011237
+    second: EarthWorm_Jim_107
+  - first:
+      213: -3823310724086650594
+    second: EarthWorm_Jim_108
+  - first:
+      213: 2312667642802918422
+    second: EarthWorm_Jim_109
+  - first:
+      213: -4569921021088371984
+    second: EarthWorm_Jim_110
+  - first:
+      213: -3685706496094986863
+    second: EarthWorm_Jim_111
+  - first:
+      213: 1549192119520554182
+    second: EarthWorm_Jim_112
+  - first:
+      213: 7862843763050968530
+    second: EarthWorm_Jim_113
+  - first:
+      213: 7482074687632059861
+    second: EarthWorm_Jim_114
+  - first:
+      213: 8267307317553343835
+    second: EarthWorm_Jim_115
+  - first:
+      213: 6688335559453848913
+    second: EarthWorm_Jim_116
+  - first:
+      213: 8736265481640668699
+    second: EarthWorm_Jim_117
+  - first:
+      213: -9123225245137361413
+    second: EarthWorm_Jim_118
+  - first:
+      213: 64952322664288038
+    second: EarthWorm_Jim_119
+  - first:
+      213: 7337288919952938690
+    second: EarthWorm_Jim_120
+  - first:
+      213: 2582657275629126007
+    second: EarthWorm_Jim_121
+  - first:
+      213: -3004538501504654112
+    second: EarthWorm_Jim_122
+  - first:
+      213: -7771413155558893161
+    second: EarthWorm_Jim_123
+  - first:
+      213: 1933591233188570868
+    second: EarthWorm_Jim_124
+  - first:
+      213: 310940789782251139
+    second: EarthWorm_Jim_125
+  - first:
+      213: 4490913674945619592
+    second: EarthWorm_Jim_126
+  - first:
+      213: -8320045307074319372
+    second: EarthWorm_Jim_127
+  - first:
+      213: 3546729003162361652
+    second: EarthWorm_Jim_128
+  - first:
+      213: 4064961540051330893
+    second: EarthWorm_Jim_129
+  - first:
+      213: 1856997000870832601
+    second: EarthWorm_Jim_130
+  - first:
+      213: -5251145484391683373
+    second: EarthWorm_Jim_131
+  - first:
+      213: 8659560961763323994
+    second: EarthWorm_Jim_132
+  - first:
+      213: 1734826915507250197
+    second: EarthWorm_Jim_133
+  - first:
+      213: 6155111959373803895
+    second: EarthWorm_Jim_134
+  - first:
+      213: -6993158240640176986
+    second: EarthWorm_Jim_135
+  - first:
+      213: -8731041134452783503
+    second: EarthWorm_Jim_136
+  - first:
+      213: -5721378368132109439
+    second: EarthWorm_Jim_137
+  - first:
+      213: 6146279754059424630
+    second: EarthWorm_Jim_138
+  - first:
+      213: -1659271939756785940
+    second: EarthWorm_Jim_139
+  - first:
+      213: 536654090057460716
+    second: EarthWorm_Jim_140
+  - first:
+      213: -5865274212430851347
+    second: EarthWorm_Jim_141
+  - first:
+      213: -304667379238097302
+    second: EarthWorm_Jim_142
+  - first:
+      213: 2530317834608339692
+    second: EarthWorm_Jim_143
+  - first:
+      213: 674569492985671120
+    second: EarthWorm_Jim_144
+  - first:
+      213: 4788474009750107746
+    second: EarthWorm_Jim_145
+  - first:
+      213: -79430266408795289
+    second: EarthWorm_Jim_146
+  - first:
+      213: 2418109405538679780
+    second: EarthWorm_Jim_147
+  - first:
+      213: -8331300218582519209
+    second: EarthWorm_Jim_148
+  - first:
+      213: -5783676283277278881
+    second: EarthWorm_Jim_149
+  - first:
+      213: -416287210776163176
+    second: EarthWorm_Jim_150
+  - first:
+      213: -7129788009486904078
+    second: EarthWorm_Jim_151
+  - first:
+      213: -8366899118267866692
+    second: EarthWorm_Jim_152
+  - first:
+      213: -3884736627120580355
+    second: EarthWorm_Jim_153
+  - first:
+      213: 3643420321608270174
+    second: EarthWorm_Jim_154
+  - first:
+      213: -5737780472985721963
+    second: EarthWorm_Jim_155
+  - first:
+      213: -4631781530741118887
+    second: EarthWorm_Jim_156
+  - first:
+      213: -6391547988343447049
+    second: EarthWorm_Jim_157
+  - first:
+      213: 847773115272242306
+    second: EarthWorm_Jim_158
+  - first:
+      213: -6547805877721825119
+    second: EarthWorm_Jim_159
+  - first:
+      213: -9093301091205795436
+    second: EarthWorm_Jim_160
+  - first:
+      213: 1567882274756289395
+    second: EarthWorm_Jim_161
+  - first:
+      213: 3650001303459143602
+    second: EarthWorm_Jim_162
+  - first:
+      213: 3563782508468047246
+    second: EarthWorm_Jim_163
+  - first:
+      213: -1101593940585922597
+    second: EarthWorm_Jim_164
+  - first:
+      213: 8401373411012860818
+    second: EarthWorm_Jim_165
+  - first:
+      213: -8870880995829443695
+    second: EarthWorm_Jim_166
+  - first:
+      213: -4198449588566074422
+    second: EarthWorm_Jim_167
+  - first:
+      213: -2442652196418901073
+    second: EarthWorm_Jim_168
+  - first:
+      213: -2393231656384613085
+    second: EarthWorm_Jim_169
+  - first:
+      213: 1770109639912039082
+    second: EarthWorm_Jim_170
+  - first:
+      213: -1012467581808930248
+    second: EarthWorm_Jim_171
+  - first:
+      213: -2512468561257617174
+    second: EarthWorm_Jim_172
+  - first:
+      213: 8204224756877587576
+    second: EarthWorm_Jim_173
+  - first:
+      213: -501183840037898495
+    second: EarthWorm_Jim_174
+  - first:
+      213: 2076619341837254276
+    second: EarthWorm_Jim_175
+  - first:
+      213: 6817019584527653016
+    second: EarthWorm_Jim_176
+  - first:
+      213: 6031710996256845142
+    second: EarthWorm_Jim_177
+  - first:
+      213: -832403813746032565
+    second: EarthWorm_Jim_178
+  - first:
+      213: 810458517161589495
+    second: EarthWorm_Jim_179
+  - first:
+      213: 8965805498867539580
+    second: EarthWorm_Jim_180
+  - first:
+      213: 8775090632971913559
+    second: EarthWorm_Jim_181
+  - first:
+      213: 8441741471142883222
+    second: EarthWorm_Jim_182
+  - first:
+      213: 8159840281315475211
+    second: EarthWorm_Jim_183
+  - first:
+      213: -7036461500475034233
+    second: EarthWorm_Jim_184
+  - first:
+      213: -6081283865678652476
+    second: EarthWorm_Jim_185
+  - first:
+      213: -6330307602819913121
+    second: EarthWorm_Jim_186
+  - first:
+      213: -6980632866412785114
+    second: EarthWorm_Jim_187
+  - first:
+      213: 1580319585582847026
+    second: EarthWorm_Jim_188
+  - first:
+      213: 2406542510341736627
+    second: EarthWorm_Jim_189
+  - first:
+      213: 2478738748717997805
+    second: EarthWorm_Jim_190
+  - first:
+      213: 780801964490476843
+    second: EarthWorm_Jim_191
+  - first:
+      213: -6254710890719307673
+    second: EarthWorm_Jim_192
+  - first:
+      213: 6448172122629638385
+    second: EarthWorm_Jim_193
+  - first:
+      213: -3458367442980620894
+    second: EarthWorm_Jim_194
+  - first:
+      213: 1050424211134704488
+    second: EarthWorm_Jim_195
+  - first:
+      213: -575898884186252847
+    second: EarthWorm_Jim_196
+  - first:
+      213: -6921404420493334508
+    second: EarthWorm_Jim_197
+  - first:
+      213: 8792151855928163300
+    second: EarthWorm_Jim_198
+  - first:
+      213: 6118609849292611579
+    second: EarthWorm_Jim_199
+  - first:
+      213: -2062018857798984359
+    second: EarthWorm_Jim_200
+  - first:
+      213: 5387391625364341643
+    second: EarthWorm_Jim_201
+  - first:
+      213: 395941379726584873
+    second: EarthWorm_Jim_202
+  - first:
+      213: -6089049782038188747
+    second: EarthWorm_Jim_203
+  - first:
+      213: 3719745656095268240
+    second: EarthWorm_Jim_204
+  - first:
+      213: 7282410380337133896
+    second: EarthWorm_Jim_205
+  - first:
+      213: -1896382125929983063
+    second: EarthWorm_Jim_206
+  - first:
+      213: 4125083912578099677
+    second: EarthWorm_Jim_207
+  - first:
+      213: -5109631409204542728
+    second: EarthWorm_Jim_208
+  - first:
+      213: -3587101965191325466
+    second: EarthWorm_Jim_209
+  - first:
+      213: -4592743572456454940
+    second: EarthWorm_Jim_210
+  - first:
+      213: -2168018931045225635
+    second: EarthWorm_Jim_211
+  - first:
+      213: 2410380071478136194
+    second: EarthWorm_Jim_212
+  - first:
+      213: -3248759048022022898
+    second: EarthWorm_Jim_213
+  - first:
+      213: -516388223326019175
+    second: EarthWorm_Jim_214
+  - first:
+      213: -7994558731206535345
+    second: EarthWorm_Jim_215
+  - first:
+      213: 2215282576017925436
+    second: EarthWorm_Jim_216
+  - first:
+      213: 1917905407574821960
+    second: EarthWorm_Jim_217
+  - first:
+      213: 4817861426469404442
+    second: EarthWorm_Jim_218
+  - first:
+      213: 4905297056607009979
+    second: EarthWorm_Jim_219
+  - first:
+      213: 3218294053921155359
+    second: EarthWorm_Jim_220
+  - first:
+      213: 436367769691570311
+    second: EarthWorm_Jim_221
+  - first:
+      213: -3461786863398291352
+    second: EarthWorm_Jim_222
+  - first:
+      213: -6271475720959787661
+    second: EarthWorm_Jim_223
+  - first:
+      213: 6080935743885202583
+    second: EarthWorm_Jim_224
+  - first:
+      213: 8737321283764627416
+    second: EarthWorm_Jim_225
+  - first:
+      213: -1082199303665420612
+    second: EarthWorm_Jim_226
+  - first:
+      213: -5328047982033532839
+    second: EarthWorm_Jim_227
+  - first:
+      213: 7156767901333655803
+    second: EarthWorm_Jim_228
+  - first:
+      213: -1572410062871258340
+    second: EarthWorm_Jim_229
+  - first:
+      213: 3730331251393162447
+    second: EarthWorm_Jim_230
+  - first:
+      213: -5086178180664155526
+    second: EarthWorm_Jim_231
+  - first:
+      213: -1559380917057786457
+    second: EarthWorm_Jim_232
+  - first:
+      213: 7150478242383608041
+    second: EarthWorm_Jim_233
+  - first:
+      213: -559712708481400013
+    second: EarthWorm_Jim_234
+  - first:
+      213: 101735107225761920
+    second: EarthWorm_Jim_235
+  - first:
+      213: 4917686196632646014
+    second: EarthWorm_Jim_236
+  - first:
+      213: -241648836194428057
+    second: EarthWorm_Jim_237
+  - first:
+      213: 804331005631085704
+    second: EarthWorm_Jim_238
+  - first:
+      213: 1276215295771048187
+    second: EarthWorm_Jim_239
+  - first:
+      213: 5618410182099534580
+    second: EarthWorm_Jim_240
+  - first:
+      213: 1364031981235096717
+    second: EarthWorm_Jim_241
+  - first:
+      213: 8418942402086555686
+    second: EarthWorm_Jim_242
+  - first:
+      213: 6863908296746420013
+    second: EarthWorm_Jim_243
+  - first:
+      213: 6302332794572635815
+    second: EarthWorm_Jim_244
+  - first:
+      213: -1980807931938614816
+    second: EarthWorm_Jim_245
+  - first:
+      213: -5850028746806855230
+    second: EarthWorm_Jim_246
+  - first:
+      213: -7396940966492857971
+    second: EarthWorm_Jim_247
+  - first:
+      213: 8148533669385204787
+    second: EarthWorm_Jim_248
+  - first:
+      213: 2327466758477543331
+    second: EarthWorm_Jim_249
+  - first:
+      213: -3051499254284085439
+    second: EarthWorm_Jim_250
+  - first:
+      213: -1133704694994746723
+    second: EarthWorm_Jim_251
+  - first:
+      213: -6536312699232594458
+    second: EarthWorm_Jim_252
+  - first:
+      213: -8370948590075372983
+    second: EarthWorm_Jim_253
+  - first:
+      213: -820922537942209216
+    second: EarthWorm_Jim_254
+  - first:
+      213: 5129629935536156985
+    second: EarthWorm_Jim_255
+  - first:
+      213: 6517267478330767421
+    second: EarthWorm_Jim_256
+  - first:
+      213: -5235894100549997195
+    second: EarthWorm_Jim_257
+  - first:
+      213: 9209074794612582610
+    second: EarthWorm_Jim_258
+  - first:
+      213: -464696862212988805
+    second: EarthWorm_Jim_259
+  - first:
+      213: 6947964873868227214
+    second: EarthWorm_Jim_260
+  - first:
+      213: 1723388339979899481
+    second: EarthWorm_Jim_261
+  - first:
+      213: -5591517129344731380
+    second: EarthWorm_Jim_262
+  - first:
+      213: -3935373971513292466
+    second: EarthWorm_Jim_263
+  - first:
+      213: -1728476285505317186
+    second: EarthWorm_Jim_264
+  - first:
+      213: 5773689440943686257
+    second: EarthWorm_Jim_265
+  - first:
+      213: -6271755596332551094
+    second: EarthWorm_Jim_266
+  - first:
+      213: -1652534093408225877
+    second: EarthWorm_Jim_267
+  - first:
+      213: -2883204483227010404
+    second: EarthWorm_Jim_268
+  - first:
+      213: -723661245360565639
+    second: EarthWorm_Jim_269
+  - first:
+      213: -7970909004241009839
+    second: EarthWorm_Jim_270
+  - first:
+      213: -8334194061913432831
+    second: EarthWorm_Jim_271
+  - first:
+      213: -7521837762936311968
+    second: EarthWorm_Jim_272
+  - first:
+      213: 1324251566013655555
+    second: EarthWorm_Jim_273
+  - first:
+      213: -8575777405370481248
+    second: EarthWorm_Jim_274
+  - first:
+      213: -5401640805789841944
+    second: EarthWorm_Jim_275
+  - first:
+      213: -4520056045643505893
+    second: EarthWorm_Jim_276
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthWorm_Jim_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1197
+        width: 53
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014d97405a9ea0050800000000000000
+      internalID: 5767679167755310096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1197
+        width: 66
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81b0b0e29bb9aa0800000000000000
+      internalID: -6153120858466740033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1197
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2432dc42782ec5010800000000000000
+      internalID: 1179066272530113346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1197
+        width: 58
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaec9c8f347fc9070800000000000000
+      internalID: 8114632499923635886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1199
+        width: 42
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05947641ab675e60800000000000000
+      internalID: 7950942007561852175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1197
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186153b03de4d8880800000000000000
+      internalID: -8607136644502055295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1197
+        width: 84
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa4530b6f4c4a780800000000000000
+      internalID: -8672590418611451139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1197
+        width: 59
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7af4fb99dec420800000000000000
+      internalID: 2652296494421016541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1197
+        width: 54
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aeacbf31a0c56a0800000000000000
+      internalID: -6459276684611098088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1197
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29c4ac2cfa4c10b0800000000000000
+      internalID: -5756643776745125585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_10
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1197
+        width: 55
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c5ac956b051d80800000000000000
+      internalID: -8280699808803077114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1197
+        width: 59
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8389a53438e9e720800000000000000
+      internalID: 2876085147989017485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_12
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1197
+        width: 46
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23dfe255b5888a0800000000000000
+      internalID: -6302687257086315779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_13
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1198
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f448330c044850800000000000000
+      internalID: 6360221781722462661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1198
+        width: 46
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a59222a3c87726b0800000000000000
+      internalID: -5321151653080820312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_15
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1198
+        width: 46
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8b92f8e0e040740800000000000000
+      internalID: 5117230532293933221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_16
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1198
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2fb287c0af77d0800000000000000
+      internalID: -2918437254760288805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_17
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1198
+        width: 46
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5d3d63a4ff38f0800000000000000
+      internalID: -558458846021068253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_18
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1198
+        width: 47
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d2efd1355cee70800000000000000
+      internalID: 9145778615980577468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1111
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08084df1902f070800000000000000
+      internalID: 8138577508925735094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1111
+        width: 44
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d434f6dda0eee30800000000000000
+      internalID: 4534573820979399969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1111
+        width: 62
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f1eacbc06b8760800000000000000
+      internalID: 7461163636067792955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1111
+        width: 44
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4b91729d81d640800000000000000
+      internalID: 5103015512898227142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1111
+        width: 25
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc9aafddcff6c9a0800000000000000
+      internalID: -6212997376225141584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1111
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e3f2a35ea8c0c0800000000000000
+      internalID: -4555199348845844393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1111
+        width: 54
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179d7e6a2f57ec80800000000000000
+      internalID: -8293555552932489453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1111
+        width: 46
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522a10aa170aaf60800000000000000
+      internalID: 8046251495187423832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1111
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d713680e29c184f0800000000000000
+      internalID: -828159656913070126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1111
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd6454b192a1e410800000000000000
+      internalID: 1504662497197846000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1111
+        width: 47
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55da5dcc2fbc4ac0800000000000000
+      internalID: -3869507780673350306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1111
+        width: 58
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d73a02fcb9d4b020800000000000000
+      internalID: 2356747910559446996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_31
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1111
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f6abcb96ef106f0800000000000000
+      internalID: -720014735311212777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1111
+        width: 49
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6370837b137fd690800000000000000
+      internalID: -7575209486474775698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_33
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1111
+        width: 43
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a47a21e9491070800000000000000
+      internalID: 8077568638094451475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_34
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1111
+        width: 44
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0808928d6487e10800000000000000
+      internalID: 2195582712566284452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_35
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1111
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2944b229a71506980800000000000000
+      internalID: -8547742505869032302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_36
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1111
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7673a2a1e45efada0800000000000000
+      internalID: -5931270060614469785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_37
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1111
+        width: 47
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdf1fca30381f580800000000000000
+      internalID: -8795104545468187197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_38
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1111
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab042900d7c8d30800000000000000
+      internalID: 4435057174460283421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_39
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1111
+        width: 58
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a094ca43ba495a90800000000000000
+      internalID: -7324741185027403613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_40
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1111
+        width: 65
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82aa87d4f7df8410800000000000000
+      internalID: 1481640249016361615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1019
+        width: 59
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80359ddd149efac90800000000000000
+      internalID: -7156244813764275448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1019
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859c03f7fd2499050800000000000000
+      internalID: 5807746722150009176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1025
+        width: 52
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca767ea7e3b6cb520800000000000000
+      internalID: 2719166191119067052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1019
+        width: 48
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b530ac4bb0cbe5ec0800000000000000
+      internalID: -3576214295621794981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1019
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7d6ab1b8b6c8a0800000000000000
+      internalID: -6285133156472489471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1020
+        width: 35
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa7a9ed5f605420800000000000000
+      internalID: 2616713832644980704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1020
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eb8477f861b2d10800000000000000
+      internalID: 2101798456535858737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1020
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b8cb6de5b346fe0800000000000000
+      internalID: -1196766322458064006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_49
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1020
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c787d48d447b09a0800000000000000
+      internalID: -6265786580265891904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_50
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1020
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4512c742b513c8a70800000000000000
+      internalID: 8830487236890599764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1020
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00ec8f0df29cb90800000000000000
+      internalID: -7221187952937926432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1021
+        width: 45
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8dfc65f6d6dafb0800000000000000
+      internalID: -4634928116529112906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1020
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1582e13d7b29ea870800000000000000
+      internalID: 8696049248717645905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_54
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1020
+        width: 37
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503bc27b77746680800000000000000
+      internalID: -8762747602865541030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_55
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1020
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b1c28102bd88900800000000000000
+      internalID: 687039874064980892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_56
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1019
+        width: 46
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfef4dbf34ab33810800000000000000
+      internalID: 1743942281873129213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_57
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1020
+        width: 40
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c90330335975b70800000000000000
+      internalID: 8887736435968351294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_58
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1022
+        width: 46
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4583e013575a4e80800000000000000
+      internalID: -8193640557769947825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb66bf2eb858080800000000000000
+      internalID: -9185782057955574657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 938
+        width: 51
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1ed1cba6bc3e820800000000000000
+      internalID: 2946422240513483199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 938
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ca44611d1429c0800000000000000
+      internalID: -3953002612390180972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 938
+        width: 35
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48b54631a2d05e20800000000000000
+      internalID: 3337398913723643983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_63
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 938
+        width: 51
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd95ac53088bd1100800000000000000
+      internalID: 80423229160315359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 938
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2317b1e78629be80800000000000000
+      internalID: -8162450484583001299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_65
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 937
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0d918f5d2d7660800000000000000
+      internalID: 7385108852177177448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_66
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 937
+        width: 55
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c62a9c530a3715d0800000000000000
+      internalID: -3091938833053636922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_67
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 937
+        width: 74
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f823631f072fc8970800000000000000
+      internalID: 8758641942225891983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_68
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 937
+        width: 93
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c935a2584b721d7a0800000000000000
+      internalID: -6354253942961319012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_69
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 937
+        width: 110
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff103cd96b6fde030800000000000000
+      internalID: 3525745347492250111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_70
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 937
+        width: 55
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ab079ab3bcc4a10800000000000000
+      internalID: 1895113000322382396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_71
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 937
+        width: 33
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2844b90c12d0f4ed0800000000000000
+      internalID: -2427707235512925054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 847
+        width: 53
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d122c33dde7720800000000000000
+      internalID: 2845955228914798747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_73
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 847
+        width: 50
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a7bde0ae354e6a0800000000000000
+      internalID: -6420914903986767358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 847
+        width: 66
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b301dd6c577fa4c00800000000000000
+      internalID: 885792361951334459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 847
+        width: 59
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e334ed0deffb9a0800000000000000
+      internalID: -6214968787712393629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_76
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 847
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69ef150b0cc4740800000000000000
+      internalID: 5137693138445309662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 847
+        width: 35
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5329794c0ed3d80800000000000000
+      internalID: -8269206205821209140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 866
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd683b74b2ccff20800000000000000
+      internalID: 3457852694330895826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_79
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 857
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3802906bf48faba0800000000000000
+      internalID: -6075491157107668932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_80
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 850
+        width: 46
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38925848ac20a3a20800000000000000
+      internalID: 3042747567072160131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_81
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 847
+        width: 46
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac683b6332332900800000000000000
+      internalID: 658425166949805231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_82
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 847
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b7782eed80c7cd0800000000000000
+      internalID: -2559160734876992618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_83
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 881
+        width: 24
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd51f3176ce121120800000000000000
+      internalID: 2383000990484731357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_84
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 847
+        width: 51
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d52387150456d0800000000000000
+      internalID: -3002769453006596328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_85
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 882
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4979a147d1d4280800000000000000
+      internalID: -9057550891072645894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_86
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 847
+        width: 48
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c42e79a0a8e01a0800000000000000
+      internalID: -6841379005826708372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_87
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 882
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d294fc2f972645550800000000000000
+      internalID: 6148647667171805485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_88
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 847
+        width: 49
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a49fbf723a7238d0800000000000000
+      internalID: -2868095655371369306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_89
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 881
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e7287e76fc56a0800000000000000
+      internalID: -6459016742513941833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_90
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 847
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc407f67580b8e7a0800000000000000
+      internalID: -6347629587505675061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_91
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 847
+        width: 46
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee0f9f138a34370800000000000000
+      internalID: 8305667070401506930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02fa50a84762b480800000000000000
+      internalID: -8884925553222946294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_93
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 760
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4350b5be78cc4fa0800000000000000
+      internalID: -5815052572302486706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_94
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 794
+        width: 24
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a4affc3cb80b5a0800000000000000
+      internalID: -6507547788426196463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_95
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 760
+        width: 58
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a814bce39a83d0800000000000000
+      internalID: -3203585540077608553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_96
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 760
+        width: 55
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f821ae5b697936f60800000000000000
+      internalID: 8026425634457260687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 760
+        width: 84
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e9c65e2e16f4dd0800000000000000
+      internalID: -2499671641027731956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_98
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 760
+        width: 85
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aebc1f149c871a40800000000000000
+      internalID: 5338890451076038310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_99
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 760
+        width: 96
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99486cf5fcb8cfd0800000000000000
+      internalID: -2321397843221788260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_100
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 756
+        width: 59
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63de8323caf443c0800000000000000
+      internalID: -4376097221875149970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_101
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 760
+        width: 60
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38f53432f94b2e0800000000000000
+      internalID: -2110887351526915151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_102
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 760
+        width: 51
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b28949882e74f0800000000000000
+      internalID: -829180711280657983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_103
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 760
+        width: 33
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2337d2ac2a539860800000000000000
+      internalID: 7535465749278044971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_104
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 781
+        width: 37
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4886640d3f7130d60800000000000000
+      internalID: 7855148511003043972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_105
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 785
+        width: 60
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7ee8ecefbaa400800000000000000
+      internalID: 336292146433654198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_106
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 785
+        width: 60
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c401f9bd99d346f0800000000000000
+      internalID: -701477845486992183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52617595e9fb41530800000000000000
+      internalID: 3824892670369011237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_108
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 688
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19afd8372fd0fac0800000000000000
+      internalID: -3823310724086650594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_109
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 687
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614dec4d7fe381020800000000000000
+      internalID: 2312667642802918422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 684
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faef663b016490c0800000000000000
+      internalID: -4569921021088371984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 688
+        width: 53
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d98e1387db9dcc0800000000000000
+      internalID: -3685706496094986863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 679
+        width: 38
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc6bd45606df7510800000000000000
+      internalID: 1549192119520554182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_113
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 684
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d57c0d4ebe6e1d60800000000000000
+      internalID: 7862843763050968530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_114
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 684
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd2043694ba5d760800000000000000
+      internalID: 7482074687632059861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_115
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 684
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d21c704306bb270800000000000000
+      internalID: 8267307317553343835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_116
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 684
+        width: 48
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1553cd741cdb1dc50800000000000000
+      internalID: 6688335559453848913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_117
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 684
+        width: 58
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee2b83b237d3970800000000000000
+      internalID: 8736265481640668699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_118
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 684
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf526b9f9fac36180800000000000000
+      internalID: -9123225245137361413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_119
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 687
+        width: 43
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fcdb71bc1c6e000800000000000000
+      internalID: 64952322664288038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_120
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 684
+        width: 33
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c65438e56943d560800000000000000
+      internalID: 7337288919952938690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_121
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 687
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c372db1177d320800000000000000
+      internalID: 2582657275629126007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_122
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 687
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4a4dfc62cbd46d0800000000000000
+      internalID: -3004538501504654112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 687
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7995d14e8e4662490800000000000000
+      internalID: -7771413155558893161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_124
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 687
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a3036bfe75da10800000000000000
+      internalID: 1933591233188570868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_125
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 674
+        width: 65
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868629300fa05400800000000000000
+      internalID: 310940789782251139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_126
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 687
+        width: 45
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e318813ee25e30800000000000000
+      internalID: 4490913674945619592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_127
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 687
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbedacefd2498c80800000000000000
+      internalID: -8320045307074319372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_128
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 687
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f511cac33883130800000000000000
+      internalID: 3546729003162361652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_129
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 600
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47626ccbf4a96830800000000000000
+      internalID: 4064961540051330893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_130
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 601
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92fd9fee065c910800000000000000
+      internalID: 1856997000870832601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_131
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 601
+        width: 24
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daefe2f00f2027b0800000000000000
+      internalID: -5251145484391683373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_132
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 601
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503ebc70d0fc2870800000000000000
+      internalID: 8659560961763323994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_133
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 601
+        width: 25
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514a89d53e7531810800000000000000
+      internalID: 1734826915507250197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_134
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 600
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771fb3347b95b6550800000000000000
+      internalID: 6155111959373803895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_135
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 598
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aceb88a1af43fe90800000000000000
+      internalID: -6993158240640176986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_136
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 602
+        width: 56
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764e95e85c15d680800000000000000
+      internalID: -8731041134452783503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_137
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 602
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ba1e5ffa49990b0800000000000000
+      internalID: -5721378368132109439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_138
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 602
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67323e63fd8fb4550800000000000000
+      internalID: 6146279754059424630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_139
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 600
+        width: 45
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceef50546f419f8e0800000000000000
+      internalID: -1659271939756785940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_140
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 600
+        width: 58
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceba2253d04927700800000000000000
+      internalID: 536654090057460716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_141
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 600
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2dcc9ed2c5a9ea0800000000000000
+      internalID: -5865274212430851347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_142
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 598
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2dddf1aa95cbf0800000000000000
+      internalID: -304667379238097302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_143
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 592
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea6aa41aae7d1320800000000000000
+      internalID: 2530317834608339692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_144
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 598
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dde9bd316d8c5900800000000000000
+      internalID: 674569492985671120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_145
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 592
+        width: 77
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266785fcdb3147240800000000000000
+      internalID: 4788474009750107746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_146
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 598
+        width: 51
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630a42f79ec5eef0800000000000000
+      internalID: -79430266408795289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_147
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 600
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebf92151b9de8120800000000000000
+      internalID: 2418109405538679780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_148
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 596
+        width: 67
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7523142a796416c80800000000000000
+      internalID: -8331300218582519209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51086740114cbfa0800000000000000
+      internalID: -5783676283277278881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_150
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 534
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c0625ccfc093af0800000000000000
+      internalID: -416287210776163176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_151
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 529
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f491b2a497ed0d90800000000000000
+      internalID: -7129788009486904078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_152
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 527
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb16d18e49dc2eb80800000000000000
+      internalID: -8366899118267866692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_153
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 531
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8578eae94a61ac0800000000000000
+      internalID: -3884736627120580355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_154
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 538
+        width: 46
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5186e49a77009230800000000000000
+      internalID: 3643420321608270174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_155
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 529
+        width: 78
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59363845f0f4f50b0800000000000000
+      internalID: -5737780472985721963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_156
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 540
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e5feec3b98bfb0800000000000000
+      internalID: -4631781530741118887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_157
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 529
+        width: 63
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f12dede7f8ac47a0800000000000000
+      internalID: -6391547988343447049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_158
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 521
+        width: 33
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ade91825e3cb00800000000000000
+      internalID: 847773115272242306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_159
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 531
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a00d28fe358125a0800000000000000
+      internalID: -6547805877721825119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_160
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 531
+        width: 71
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491b10ff5da1ec180800000000000000
+      internalID: -9093301091205795436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_161
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 536
+        width: 40
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373ea743f9c32c510800000000000000
+      internalID: 1567882274756289395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_162
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 536
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf1562d8d867a230800000000000000
+      internalID: 3650001303459143602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_163
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 533
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d0df94f49157130800000000000000
+      internalID: 3563782508468047246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_164
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 529
+        width: 59
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf37a4c52a56b0f0800000000000000
+      internalID: -1101593940585922597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_165
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 531
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b55dcda9ca79470800000000000000
+      internalID: 8401373411012860818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_166
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 529
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19392d6fbbc44e480800000000000000
+      internalID: -8870880995829443695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_167
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 528
+        width: 51
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb5222f75c1cb5c0800000000000000
+      internalID: -4198449588566074422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_168
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 448
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabaf92e4c4f91ed0800000000000000
+      internalID: -2442652196418901073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_169
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 448
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b9f70d7889ced0800000000000000
+      internalID: -2393231656384613085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_170
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 449
+        width: 27
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a37cc651b09810800000000000000
+      internalID: 1770109639912039082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_171
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 449
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8321eaf391ef2f1f0800000000000000
+      internalID: -1012467581808930248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_172
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 451
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae827e8b72be12dd0800000000000000
+      internalID: -2512468561257617174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_173
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 449
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8747723d2f24bd170800000000000000
+      internalID: 8204224756877587576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_174
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 505
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107ff5fe3ff6b09f0800000000000000
+      internalID: -501183840037898495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_175
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 504
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e3aebf942a1dc10800000000000000
+      internalID: 2076619341837254276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_176
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 503
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d6aaa13bea9e50800000000000000
+      internalID: 6817019584527653016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_177
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 503
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65de4b79131f4b350800000000000000
+      internalID: 6031710996256845142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_178
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 504
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ccf34425b274f0800000000000000
+      internalID: -832403813746032565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_179
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 504
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa3b943ab35f3b00800000000000000
+      internalID: 810458517161589495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_180
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 503
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e5e3d2990fc6c70800000000000000
+      internalID: 8965805498867539580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_181
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 502
+        width: 21
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590622307267c970800000000000000
+      internalID: 8775090632971913559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_182
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 453
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa7294427172570800000000000000
+      internalID: 8441741471142883222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7bbfc0839d3170800000000000000
+      internalID: 8159840281315475211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_184
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 447
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785397ccb87795e90800000000000000
+      internalID: -7036461500475034233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_185
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 451
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd8ef4b80fa9ba0800000000000000
+      internalID: -6081283865678652476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_186
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 449
+        width: 77
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ae6fe46ca3628a0800000000000000
+      internalID: -6330307602819913121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_187
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 459
+        width: 46
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6229c0a946fcf1f90800000000000000
+      internalID: -6980632866412785114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_188
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 450
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234124a4a4c6ee510800000000000000
+      internalID: 1580319585582847026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_189
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 449
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8cbc9a9a1c56120800000000000000
+      internalID: 2406542510341736627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_190
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 449
+        width: 59
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee155052cf366220800000000000000
+      internalID: 2478738748717997805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_191
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 451
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc165ff37f5da00800000000000000
+      internalID: 780801964490476843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_192
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 451
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76898e1759dc239a0800000000000000
+      internalID: -6254710890719307673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_193
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 452
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f88ae3b1628c7950800000000000000
+      internalID: 6448172122629638385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_194
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 451
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a53d5242296100d0800000000000000
+      internalID: -3458367442980620894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_195
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 451
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b6720314bd39e00800000000000000
+      internalID: 1050424211134704488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_196
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 451
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9d88d140ff108f0800000000000000
+      internalID: -575898884186252847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_197
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 453
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4182da9c95b32ff90800000000000000
+      internalID: -6921404420493334508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 364
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb3e7b78ff30a70800000000000000
+      internalID: 8792151855928163300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_199
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 363
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffda4a7d3ba9e450800000000000000
+      internalID: 6118609849292611579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_200
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 361
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d1cbc16cc3263e0800000000000000
+      internalID: -2062018857798984359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_201
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 365
+        width: 45
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8381cfb32cd3ca40800000000000000
+      internalID: 5387391625364341643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_202
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 373
+        width: 51
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c2b7a469aae7500800000000000000
+      internalID: 395941379726584873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 382
+        width: 57
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da1f10c795f7ba0800000000000000
+      internalID: -6089049782038188747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_204
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 372
+        width: 53
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d5c5657f03f9330800000000000000
+      internalID: 3719745656095268240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_205
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 363
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849bc9438a1501560800000000000000
+      internalID: 7282410380337133896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_206
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 372
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a31b810182bea5e0800000000000000
+      internalID: -1896382125929983063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_207
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 370
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd965ed76fd3f3930800000000000000
+      internalID: 4125083912578099677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_208
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 370
+        width: 51
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24f292e41f619b0800000000000000
+      internalID: -5109631409204542728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_209
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 286
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85aa794cd083ec0800000000000000
+      internalID: -3587101965191325466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_210
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 283
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e44643ed0c4340c0800000000000000
+      internalID: -4592743572456454940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_211
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 289
+        width: 51
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2ab4d446a9e1e0800000000000000
+      internalID: -2168018931045225635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_212
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 303
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d822e77e3637120800000000000000
+      internalID: 2410380071478136194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_213
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 291
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05afc5cbd61ae2d0800000000000000
+      internalID: -3248759048022022898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_214
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 304
+        width: 49
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991257695ab65d8f0800000000000000
+      internalID: -516388223326019175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_215
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 296
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47df62e03f9d0190800000000000000
+      internalID: -7994558731206535345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_216
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 292
+        width: 59
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3529ac04c34ebe10800000000000000
+      internalID: 2215282576017925436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_217
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 292
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4c438ec4cd9a10800000000000000
+      internalID: 1917905407574821960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_218
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 292
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ff3c5f07b7cd240800000000000000
+      internalID: 4817861426469404442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_219
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 292
+        width: 58
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc74d00fad131440800000000000000
+      internalID: 4905297056607009979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_220
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 295
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19e8ba046da9ac20800000000000000
+      internalID: 3218294053921155359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_221
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 282
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78045efac2a4e0600800000000000000
+      internalID: 436367769691570311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_222
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 285
+        width: 38
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f707603345ffc0800000000000000
+      internalID: -3461786863398291352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_223
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 284
+        width: 39
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d74ba3f0e37f8a0800000000000000
+      internalID: -6271475720959787661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_224
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 284
+        width: 46
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794d04447d2d36450800000000000000
+      internalID: 6080935743885202583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_225
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 284
+        width: 36
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7204f4a63314970800000000000000
+      internalID: 8737321283764627416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_226
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 284
+        width: 57
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f8d097714bf0f0800000000000000
+      internalID: -1082199303665420612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_227
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 274
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95887ace698fe06b0800000000000000
+      internalID: -5328047982033532839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_228
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 195
+        width: 47
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf019e2fc72f15360800000000000000
+      internalID: 7156767901333655803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_229
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 260
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b1f49f06dad2ae0800000000000000
+      internalID: -1572410062871258340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 196
+        width: 35
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcce3dd428cc4c330800000000000000
+      internalID: 3730331251393162447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_231
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195
+        width: 52
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72ab2574e34a69b0800000000000000
+      internalID: -5086178180664155526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_232
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 195
+        width: 52
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6f316157fb5ae0800000000000000
+      internalID: -1559380917057786457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_233
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 195
+        width: 50
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83f6b931a9b3360800000000000000
+      internalID: 7150478242383608041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_234
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 195
+        width: 51
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333c1b2d1408b38f0800000000000000
+      internalID: -559712708481400013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_235
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 47
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088b06f7a8f696100800000000000000
+      internalID: 101735107225761920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_236
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 195
+        width: 47
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7171237a812f3440800000000000000
+      internalID: 4917686196632646014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_237
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 195
+        width: 48
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b9e3ee9ad75acf0800000000000000
+      internalID: -241648836194428057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_238
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 195
+        width: 57
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c3970c9ce892b00800000000000000
+      internalID: 804331005631085704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_239
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 195
+        width: 47
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87a51cc0706b110800000000000000
+      internalID: 1276215295771048187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_240
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 195
+        width: 52
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20b720b4a98fd40800000000000000
+      internalID: 5618410182099534580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_241
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 194
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c4ac72cd30ee210800000000000000
+      internalID: 1364031981235096717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_242
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 194
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d7dc528716d470800000000000000
+      internalID: 8418942402086555686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_243
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 195
+        width: 26
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274d66ba30814f50800000000000000
+      internalID: 6863908296746420013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_244
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 194
+        width: 67
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aefbc41942667750800000000000000
+      internalID: 6302332794572635815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_245
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 194
+        width: 78
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1d5804ea1c284e0800000000000000
+      internalID: -1980807931938614816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_246
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 38
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f0cc79d580dea0800000000000000
+      internalID: -5850028746806855230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_247
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 109
+        width: 39
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8998a3b169c85990800000000000000
+      internalID: -7396940966492857971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_248
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 118
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f3041338651170800000000000000
+      internalID: 8148533669385204787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_249
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 43
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a775957fa2dc4020800000000000000
+      internalID: 2327466758477543331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_250
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 109
+        width: 34
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14717048895e6a5d0800000000000000
+      internalID: -3051499254284085439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_251
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 133
+        width: 45
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9245a626954440f0800000000000000
+      internalID: -1133704694994746723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_252
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 146
+        width: 67
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5dd5d1b3a5a45a0800000000000000
+      internalID: -6536312699232594458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_253
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 108
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a1087cb9a64db80800000000000000
+      internalID: -8370948590075372983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_254
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 102
+        width: 74
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04da7d91d4f7b94f0800000000000000
+      internalID: -820922537942209216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_255
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 111
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b7d89f3b103740800000000000000
+      internalID: 5129629935536156985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_256
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 110
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d387c18dd3cf17a50800000000000000
+      internalID: 6517267478330767421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_257
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 110
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d67277e0e5657b0800000000000000
+      internalID: -5235894100549997195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_258
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 112
+        width: 46
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e2e2ebb43dcf70800000000000000
+      internalID: 9209074794612582610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_259
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 112
+        width: 51
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b706e877aa01d89f0800000000000000
+      internalID: -464696862212988805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_261
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 96
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9525d867094bae710800000000000000
+      internalID: 1723388339979899481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_262
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 103
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0735e5cbc0f662b0800000000000000
+      internalID: -5591517129344731380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_263
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 111
+        width: 43
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c1a1393eb269c0800000000000000
+      internalID: -3935373971513292466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_264
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 53
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d4c7e9f73308e0800000000000000
+      internalID: -1728476285505317186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_265
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724fdac4f3402050800000000000000
+      internalID: 5773689440943686257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_266
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 68
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b78aa38f36f8a0800000000000000
+      internalID: -6271755596332551094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_267
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10
+        width: 79
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53e2f5ff40119e0800000000000000
+      internalID: -1652534093408225877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_268
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 10
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ab0726cccccf7d0800000000000000
+      internalID: -2883204483227010404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_269
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 8
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97211947ee905f5f0800000000000000
+      internalID: -723661245360565639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_270
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 10
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15380490e74a16190800000000000000
+      internalID: -7970909004241009839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_271
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 10
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dda7a38aef65c80800000000000000
+      internalID: -8334194061913432831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_272
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 9
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fef0238601d9790800000000000000
+      internalID: -7521837762936311968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_273
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 81
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aaf7978cfa06210800000000000000
+      internalID: 1324251566013655555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_274
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 11
+        width: 51
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a54210e2e7bcf880800000000000000
+      internalID: -8575777405370481248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_275
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 11
+        width: 50
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e544a66e448905b0800000000000000
+      internalID: -5401640805789841944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_276
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 11
+        width: 59
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fdf8a89f88541c0800000000000000
+      internalID: -4520056045643505893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthWorm_Jim_260
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 448
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82becaad312c6060800000000000000
+      internalID: 6947964873868227214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
