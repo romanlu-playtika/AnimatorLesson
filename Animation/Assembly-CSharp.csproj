@@ -59,8 +59,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\GameCode\ButtonAnimationController.cs" />
-     <Compile Include="Assets\GameCode\JimAnimationEvent.cs" />
-     <Compile Include="Assets\GameCode\JimController.cs" />
+     <Compile Include="Assets\GameCode\Jim\JimAnimationEvent.cs" />
+     <Compile Include="Assets\GameCode\Jim\JimButtonController.cs" />
+     <Compile Include="Assets\GameCode\Jim\JimController.cs" />
      <Compile Include="Assets\GameCode\Jumping.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
