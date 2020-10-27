@@ -26,4 +26,9 @@ public class JimAnimationEvent : MonoBehaviour
     {
         audioSource.Play();
     }
+
+    private void ResetIdle()
+    {
+        jimController.ResetIdleTimer();
+    }
 }

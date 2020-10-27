@@ -5392,6 +5392,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkSpeed: 2
+  idleTimer: 5
+  currentIdleTime: 0
 --- !u!4 &1812614431
 Transform:
   m_ObjectHideFlags: 0
