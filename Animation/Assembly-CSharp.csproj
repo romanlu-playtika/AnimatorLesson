@@ -58,6 +58,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameCode\3D\CannonController.cs" />
      <Compile Include="Assets\GameCode\ButtonAnimationController.cs" />
      <Compile Include="Assets\GameCode\Jim\JimAnimationEvent.cs" />
      <Compile Include="Assets\GameCode\Jim\JimButtonController.cs" />

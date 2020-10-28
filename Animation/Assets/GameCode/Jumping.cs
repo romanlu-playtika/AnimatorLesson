@@ -8,7 +8,7 @@ namespace Academy.Animations
     {
         private Animation _animation;
 
-        [SerializeField] private ParticleSystem _particleSystem;
+        [SerializeField] private ParticleSystem _particleSystem = default;
         // Start is called before the first frame update
         void Awake()
         {
