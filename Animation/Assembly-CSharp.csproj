@@ -60,9 +60,11 @@
   <ItemGroup>
      <Compile Include="Assets\GameCode\3D\CannonController.cs" />
      <Compile Include="Assets\GameCode\ButtonAnimationController.cs" />
+     <Compile Include="Assets\GameCode\Jim\EventManager.cs" />
      <Compile Include="Assets\GameCode\Jim\JimAnimationEvent.cs" />
      <Compile Include="Assets\GameCode\Jim\JimButtonController.cs" />
      <Compile Include="Assets\GameCode\Jim\JimController.cs" />
+     <Compile Include="Assets\GameCode\Jim\MoveBehaviour.cs" />
      <Compile Include="Assets\GameCode\Jumping.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />

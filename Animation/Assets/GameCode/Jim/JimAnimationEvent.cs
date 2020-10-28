@@ -27,12 +27,4 @@ public class JimAnimationEvent : MonoBehaviour
     {
         audioSource.PlayOneShot(clip);
     }
-
-    private void ResetIdle()
-    {
-        if (jimController != null)
-        {
-            jimController.ResetIdleTimer();
-        }
-    }
 }

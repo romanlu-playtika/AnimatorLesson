@@ -9,9 +9,11 @@ public class CannonController : MonoBehaviour
 
     private Animator anim;
     private int shootTrigger = Animator.StringToHash("Shoot");
+    private int goTrigger = Animator.StringToHash("Go");
+    private int stopTrigger = Animator.StringToHash("Stop");
 
-    [SerializeField] private AnimationClip shootSphereClip;
-    [SerializeField] private AnimationClip shootCubeClip;
+    [SerializeField] private AnimationClip shootSphereClip = default;
+    [SerializeField] private AnimationClip shootCubeClip = default;
     [SerializeField] private string cubeAmmoName = "Cube";
     [SerializeField] private string sphereAmmoName = "Sphere";
     [SerializeField] private string shootAnimationName = "ShootAnimation";
@@ -24,6 +26,15 @@ public class CannonController : MonoBehaviour
     public void Shoot()
     {
         anim.SetTrigger(shootTrigger);
+    }
+
+    public void Go()
+    {
+        anim.SetTrigger(goTrigger);
+    }
+    public void Stop()
+    {
+        anim.SetTrigger(stopTrigger);
     }
 
     public void ChangeAmmo(string ammo)
