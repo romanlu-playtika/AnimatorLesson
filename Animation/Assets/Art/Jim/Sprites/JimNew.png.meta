@@ -1,0 +1,7664 @@
+fileFormatVersion: 2
+guid: 557317035c56b4451ace94bfd4f0ea3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6296497894049238247
+    second: JimNew_0
+  - first:
+      213: 4137762824143108681
+    second: JimNew_1
+  - first:
+      213: 5134972094973824891
+    second: JimNew_2
+  - first:
+      213: -7666597503607561443
+    second: JimNew_3
+  - first:
+      213: 5934525413093948927
+    second: JimNew_4
+  - first:
+      213: 4872517189538899083
+    second: JimNew_5
+  - first:
+      213: -2399403231677605760
+    second: JimNew_6
+  - first:
+      213: -3377941488186384743
+    second: JimNew_7
+  - first:
+      213: -2911511299749545637
+    second: JimNew_8
+  - first:
+      213: 8590808660483633892
+    second: JimNew_9
+  - first:
+      213: -1863323873022580515
+    second: JimNew_10
+  - first:
+      213: -9130141584194473684
+    second: JimNew_11
+  - first:
+      213: -2989196059651312845
+    second: JimNew_12
+  - first:
+      213: 8830027394308667264
+    second: JimNew_13
+  - first:
+      213: -5164368866738215353
+    second: JimNew_14
+  - first:
+      213: -3679158382060245792
+    second: JimNew_15
+  - first:
+      213: -26694993722881619
+    second: JimNew_16
+  - first:
+      213: 7812301065352223934
+    second: JimNew_17
+  - first:
+      213: 7004041750263251066
+    second: JimNew_18
+  - first:
+      213: 6495968232791922596
+    second: JimNew_19
+  - first:
+      213: 3348922666679992535
+    second: JimNew_20
+  - first:
+      213: 2135789985471875744
+    second: JimNew_21
+  - first:
+      213: -7141717904295997824
+    second: JimNew_22
+  - first:
+      213: 5160426266939467216
+    second: JimNew_23
+  - first:
+      213: -8455532779867279129
+    second: JimNew_24
+  - first:
+      213: 7515629556780442116
+    second: JimNew_25
+  - first:
+      213: -8790462287348758459
+    second: JimNew_26
+  - first:
+      213: -2486665370675274950
+    second: JimNew_27
+  - first:
+      213: 7478016471952151567
+    second: JimNew_28
+  - first:
+      213: 7552409033261775055
+    second: JimNew_29
+  - first:
+      213: -6426347015407131205
+    second: JimNew_30
+  - first:
+      213: -6183842654440680085
+    second: JimNew_31
+  - first:
+      213: -2661643637046175681
+    second: JimNew_32
+  - first:
+      213: 518526467122531963
+    second: JimNew_33
+  - first:
+      213: 5603533287246903625
+    second: JimNew_34
+  - first:
+      213: 8217374954734808678
+    second: JimNew_35
+  - first:
+      213: 3853484607304001266
+    second: JimNew_36
+  - first:
+      213: 7550788054561176817
+    second: JimNew_37
+  - first:
+      213: 985855814257131765
+    second: JimNew_38
+  - first:
+      213: -4989953322784654711
+    second: JimNew_39
+  - first:
+      213: 3548033260824585390
+    second: JimNew_40
+  - first:
+      213: -2396500617581489731
+    second: JimNew_41
+  - first:
+      213: 4102272159673318673
+    second: JimNew_42
+  - first:
+      213: -6601834101638136783
+    second: JimNew_43
+  - first:
+      213: 283252506355049029
+    second: JimNew_44
+  - first:
+      213: -2112326096055049950
+    second: JimNew_45
+  - first:
+      213: -2825610784324644500
+    second: JimNew_46
+  - first:
+      213: 1904311709802135363
+    second: JimNew_47
+  - first:
+      213: 5809143923507762797
+    second: JimNew_48
+  - first:
+      213: 6969064140228498227
+    second: JimNew_49
+  - first:
+      213: 2295735536944742820
+    second: JimNew_50
+  - first:
+      213: 2853639038358624878
+    second: JimNew_51
+  - first:
+      213: -7027525306150294140
+    second: JimNew_52
+  - first:
+      213: 753680564798040081
+    second: JimNew_53
+  - first:
+      213: -4050715268172276756
+    second: JimNew_54
+  - first:
+      213: -3430582412425024951
+    second: JimNew_55
+  - first:
+      213: -115988550581395229
+    second: JimNew_56
+  - first:
+      213: -243499689992127741
+    second: JimNew_57
+  - first:
+      213: 4135725292434142847
+    second: JimNew_58
+  - first:
+      213: -5588833009132282896
+    second: JimNew_59
+  - first:
+      213: 3239682494957924830
+    second: JimNew_60
+  - first:
+      213: 1981176532305779882
+    second: JimNew_61
+  - first:
+      213: -5919303887449869344
+    second: JimNew_62
+  - first:
+      213: 6345575863699719054
+    second: JimNew_63
+  - first:
+      213: -4901801245857860643
+    second: JimNew_64
+  - first:
+      213: -8764534620531654186
+    second: JimNew_65
+  - first:
+      213: 3389666488065509564
+    second: JimNew_66
+  - first:
+      213: -1064916263910161621
+    second: JimNew_67
+  - first:
+      213: -5537193509342477631
+    second: JimNew_68
+  - first:
+      213: 6074253283565979849
+    second: JimNew_69
+  - first:
+      213: 118554631088263899
+    second: JimNew_70
+  - first:
+      213: 7507796092071954828
+    second: JimNew_71
+  - first:
+      213: 8076529315577571420
+    second: JimNew_72
+  - first:
+      213: 4768060042802247856
+    second: JimNew_73
+  - first:
+      213: 2974812509192603128
+    second: JimNew_74
+  - first:
+      213: -4514799355575786506
+    second: JimNew_75
+  - first:
+      213: -4725922583561027351
+    second: JimNew_76
+  - first:
+      213: -5938958464120989898
+    second: JimNew_77
+  - first:
+      213: 5583435905337182195
+    second: JimNew_78
+  - first:
+      213: 3339119441582578339
+    second: JimNew_79
+  - first:
+      213: -3801893287562139127
+    second: JimNew_80
+  - first:
+      213: 6456614579376225811
+    second: JimNew_81
+  - first:
+      213: 6983725572487988503
+    second: JimNew_82
+  - first:
+      213: -7216501314355245613
+    second: JimNew_83
+  - first:
+      213: -7545685559102115065
+    second: JimNew_84
+  - first:
+      213: 7370893382278974175
+    second: JimNew_85
+  - first:
+      213: 6138298285197743915
+    second: JimNew_86
+  - first:
+      213: 2764590799996185523
+    second: JimNew_87
+  - first:
+      213: -9041019264341028123
+    second: JimNew_88
+  - first:
+      213: 2536505548842815043
+    second: JimNew_89
+  - first:
+      213: -9145429106542364935
+    second: JimNew_90
+  - first:
+      213: 4806176827899149300
+    second: JimNew_91
+  - first:
+      213: -8992281495138412613
+    second: JimNew_92
+  - first:
+      213: 1422488054110077807
+    second: JimNew_93
+  - first:
+      213: 6523495620323732765
+    second: JimNew_94
+  - first:
+      213: 6986440316767624238
+    second: JimNew_95
+  - first:
+      213: 5186392233261997129
+    second: JimNew_96
+  - first:
+      213: 3591173764770256760
+    second: JimNew_97
+  - first:
+      213: 1233580943608701713
+    second: JimNew_98
+  - first:
+      213: -3825362198765357581
+    second: JimNew_99
+  - first:
+      213: 4648946574649992809
+    second: JimNew_100
+  - first:
+      213: 1269660485933681876
+    second: JimNew_101
+  - first:
+      213: 7170554641358356793
+    second: JimNew_102
+  - first:
+      213: 2261074138482173791
+    second: JimNew_103
+  - first:
+      213: 1837551944192565336
+    second: JimNew_104
+  - first:
+      213: -356370186848850767
+    second: JimNew_105
+  - first:
+      213: 4414964830125741540
+    second: JimNew_106
+  - first:
+      213: -2603845200964002925
+    second: JimNew_107
+  - first:
+      213: -8198039712226702384
+    second: JimNew_108
+  - first:
+      213: 2126329368142879420
+    second: JimNew_109
+  - first:
+      213: 9167645353992621210
+    second: JimNew_110
+  - first:
+      213: -8969208606292101469
+    second: JimNew_111
+  - first:
+      213: 2421669950257298400
+    second: JimNew_112
+  - first:
+      213: 8339992536657765801
+    second: JimNew_113
+  - first:
+      213: -373845124394438811
+    second: JimNew_114
+  - first:
+      213: 1214407848129031190
+    second: JimNew_115
+  - first:
+      213: -6977812078063078436
+    second: JimNew_116
+  - first:
+      213: -1740778048306279765
+    second: JimNew_117
+  - first:
+      213: -8187075281127116631
+    second: JimNew_118
+  - first:
+      213: -4633253469169444646
+    second: JimNew_119
+  - first:
+      213: 6483351858107596723
+    second: JimNew_120
+  - first:
+      213: -970327922034904408
+    second: JimNew_121
+  - first:
+      213: -2269081933196384284
+    second: JimNew_122
+  - first:
+      213: 3512644874740364850
+    second: JimNew_123
+  - first:
+      213: 5453426566334369173
+    second: JimNew_124
+  - first:
+      213: 4232882619200320756
+    second: JimNew_125
+  - first:
+      213: 6738976614547601005
+    second: JimNew_126
+  - first:
+      213: 1773297708459488307
+    second: JimNew_127
+  - first:
+      213: -1985152208465489670
+    second: JimNew_128
+  - first:
+      213: -1011362529040430411
+    second: JimNew_129
+  - first:
+      213: 7407729726138580355
+    second: JimNew_130
+  - first:
+      213: 5863009549942569596
+    second: JimNew_131
+  - first:
+      213: -4861519282762158045
+    second: JimNew_132
+  - first:
+      213: 5403332460462180957
+    second: JimNew_133
+  - first:
+      213: 5758357872125543859
+    second: JimNew_134
+  - first:
+      213: 3631682834073044034
+    second: JimNew_135
+  - first:
+      213: 5401581201586649054
+    second: JimNew_136
+  - first:
+      213: -6065284197752938274
+    second: JimNew_137
+  - first:
+      213: 3427376407807955912
+    second: JimNew_138
+  - first:
+      213: -3112107596172881434
+    second: JimNew_139
+  - first:
+      213: 3202365852066117937
+    second: JimNew_140
+  - first:
+      213: 1002072547849300170
+    second: JimNew_141
+  - first:
+      213: 1397048686854335520
+    second: JimNew_142
+  - first:
+      213: -4565706477960082140
+    second: JimNew_143
+  - first:
+      213: -3347888533864217409
+    second: JimNew_144
+  - first:
+      213: 9099147789303122605
+    second: JimNew_145
+  - first:
+      213: -8829793825619530685
+    second: JimNew_146
+  - first:
+      213: 7790176745343455261
+    second: JimNew_147
+  - first:
+      213: 3420282923932931806
+    second: JimNew_148
+  - first:
+      213: 8638216888397204106
+    second: JimNew_149
+  - first:
+      213: 2706236149162981761
+    second: JimNew_150
+  - first:
+      213: 5673344164383390658
+    second: JimNew_151
+  - first:
+      213: -5314186484218990372
+    second: JimNew_152
+  - first:
+      213: -5175394921740069843
+    second: JimNew_153
+  - first:
+      213: 7557064482198296632
+    second: JimNew_154
+  - first:
+      213: 4920845043073476222
+    second: JimNew_155
+  - first:
+      213: 4648635598405886402
+    second: JimNew_156
+  - first:
+      213: -5370049603220082124
+    second: JimNew_157
+  - first:
+      213: -153405026082999229
+    second: JimNew_158
+  - first:
+      213: 8752638031821267076
+    second: JimNew_159
+  - first:
+      213: 9059723518195534894
+    second: JimNew_160
+  - first:
+      213: -6265398975066800888
+    second: JimNew_161
+  - first:
+      213: 7190059511119464326
+    second: JimNew_162
+  - first:
+      213: 2522959727313001718
+    second: JimNew_163
+  - first:
+      213: 9051516283093339447
+    second: JimNew_164
+  - first:
+      213: 3605945657399059317
+    second: JimNew_165
+  - first:
+      213: -4970231672574809858
+    second: JimNew_166
+  - first:
+      213: -3332215974728508835
+    second: JimNew_167
+  - first:
+      213: 507743911344869131
+    second: JimNew_168
+  - first:
+      213: 839197964571325096
+    second: JimNew_169
+  - first:
+      213: 2808305376689089498
+    second: JimNew_170
+  - first:
+      213: -440556538894900116
+    second: JimNew_171
+  - first:
+      213: 1492095071224691401
+    second: JimNew_172
+  - first:
+      213: -1170860636435659137
+    second: JimNew_173
+  - first:
+      213: 1232867214778126603
+    second: JimNew_174
+  - first:
+      213: 8614013530966618825
+    second: JimNew_175
+  - first:
+      213: 1222010752889425972
+    second: JimNew_176
+  - first:
+      213: 548117220928830379
+    second: JimNew_177
+  - first:
+      213: -455842176900386753
+    second: JimNew_178
+  - first:
+      213: 4186657359853877281
+    second: JimNew_179
+  - first:
+      213: 1242128198717058345
+    second: JimNew_180
+  - first:
+      213: 626990526404528715
+    second: JimNew_181
+  - first:
+      213: -7457191683921767631
+    second: JimNew_182
+  - first:
+      213: 4228805886756071258
+    second: JimNew_183
+  - first:
+      213: 6092399487948169662
+    second: JimNew_184
+  - first:
+      213: 6189800565500334391
+    second: JimNew_185
+  - first:
+      213: 8127442803085514567
+    second: JimNew_186
+  - first:
+      213: 7570106788053522639
+    second: JimNew_187
+  - first:
+      213: 2297565261204236427
+    second: JimNew_188
+  - first:
+      213: 5817763637022878681
+    second: JimNew_189
+  - first:
+      213: 8533941601893157322
+    second: JimNew_190
+  - first:
+      213: 5855418983149656890
+    second: JimNew_191
+  - first:
+      213: -7438220508870816227
+    second: JimNew_192
+  - first:
+      213: 5869153259379018145
+    second: JimNew_193
+  - first:
+      213: -4376021904655446559
+    second: JimNew_194
+  - first:
+      213: -4112318668265722740
+    second: JimNew_195
+  - first:
+      213: 5229443775834958564
+    second: JimNew_196
+  - first:
+      213: 6339495912927652926
+    second: JimNew_197
+  - first:
+      213: 2177472099848335565
+    second: JimNew_198
+  - first:
+      213: -1636685246974850521
+    second: JimNew_199
+  - first:
+      213: 1843721711528618196
+    second: JimNew_200
+  - first:
+      213: 3198179966314399877
+    second: JimNew_201
+  - first:
+      213: -2670634171585528959
+    second: JimNew_202
+  - first:
+      213: -8031278321091917806
+    second: JimNew_203
+  - first:
+      213: 8905858358513512750
+    second: JimNew_204
+  - first:
+      213: 6082726929615241636
+    second: JimNew_205
+  - first:
+      213: -663696156066792081
+    second: JimNew_206
+  - first:
+      213: -952846170633369292
+    second: JimNew_207
+  - first:
+      213: 4006146783350726646
+    second: JimNew_208
+  - first:
+      213: -7569496843111535662
+    second: JimNew_209
+  - first:
+      213: 2899569893626100828
+    second: JimNew_210
+  - first:
+      213: 5708546046162283289
+    second: JimNew_211
+  - first:
+      213: -873440878356879937
+    second: JimNew_212
+  - first:
+      213: 3856424567381296895
+    second: JimNew_213
+  - first:
+      213: -565001345251181795
+    second: JimNew_214
+  - first:
+      213: 4713016833756429913
+    second: JimNew_215
+  - first:
+      213: 7559177737773983511
+    second: JimNew_216
+  - first:
+      213: 6868852316133112508
+    second: JimNew_217
+  - first:
+      213: 8150495661938967761
+    second: JimNew_218
+  - first:
+      213: 7994646034574956340
+    second: JimNew_219
+  - first:
+      213: -5617022182696459943
+    second: JimNew_220
+  - first:
+      213: -6269508432720024870
+    second: JimNew_221
+  - first:
+      213: -1751603702583878949
+    second: JimNew_222
+  - first:
+      213: -3725594099421662054
+    second: JimNew_223
+  - first:
+      213: 5692928466219214749
+    second: JimNew_224
+  - first:
+      213: 5852770851445446245
+    second: JimNew_225
+  - first:
+      213: -8130046433490203046
+    second: JimNew_226
+  - first:
+      213: 8556400633755816943
+    second: JimNew_227
+  - first:
+      213: -6478601196005364
+    second: JimNew_228
+  - first:
+      213: -489308920941491782
+    second: JimNew_229
+  - first:
+      213: 5401674847656685244
+    second: JimNew_230
+  - first:
+      213: -4457200608073458621
+    second: JimNew_231
+  - first:
+      213: -3419858982162701720
+    second: JimNew_232
+  - first:
+      213: 1883061993759687486
+    second: JimNew_233
+  - first:
+      213: -686476847742033075
+    second: JimNew_234
+  - first:
+      213: -1792587377392031674
+    second: JimNew_235
+  - first:
+      213: 7498816298297074248
+    second: JimNew_236
+  - first:
+      213: 5426180925913832395
+    second: JimNew_237
+  - first:
+      213: -3496768844615995653
+    second: JimNew_238
+  - first:
+      213: 5782527030893899918
+    second: JimNew_239
+  - first:
+      213: -5751503446358432905
+    second: JimNew_240
+  - first:
+      213: -3921542726243027929
+    second: JimNew_241
+  - first:
+      213: -6747132104331230399
+    second: JimNew_242
+  - first:
+      213: -4587539672714697730
+    second: JimNew_243
+  - first:
+      213: 1694516107720604799
+    second: JimNew_244
+  - first:
+      213: 8777480861935147880
+    second: JimNew_245
+  - first:
+      213: -6022173925314427901
+    second: JimNew_246
+  - first:
+      213: 7024107751914995821
+    second: JimNew_247
+  - first:
+      213: 8612728020277082717
+    second: JimNew_248
+  - first:
+      213: 7036027320723358207
+    second: JimNew_249
+  - first:
+      213: 695383694338755075
+    second: JimNew_250
+  - first:
+      213: -4638461861655275942
+    second: JimNew_251
+  - first:
+      213: -715751766390907109
+    second: JimNew_252
+  - first:
+      213: -835636114631155628
+    second: JimNew_253
+  - first:
+      213: -1980009131781349274
+    second: JimNew_254
+  - first:
+      213: 7389223874741032332
+    second: JimNew_255
+  - first:
+      213: 2108475819906623091
+    second: JimNew_256
+  - first:
+      213: 1667021894469050199
+    second: JimNew_257
+  - first:
+      213: 8097488169667394568
+    second: JimNew_258
+  - first:
+      213: -3313407432437188311
+    second: JimNew_259
+  - first:
+      213: -4617333643282696193
+    second: JimNew_260
+  - first:
+      213: 132469405074210393
+    second: JimNew_261
+  - first:
+      213: -9010406440151752085
+    second: JimNew_262
+  - first:
+      213: 3553637000827770256
+    second: JimNew_263
+  - first:
+      213: -6005543061832481659
+    second: JimNew_264
+  - first:
+      213: 2693750589868483983
+    second: JimNew_265
+  - first:
+      213: -4198713046497723483
+    second: JimNew_266
+  - first:
+      213: 733227300548193253
+    second: JimNew_267
+  - first:
+      213: -4497974085049397863
+    second: JimNew_268
+  - first:
+      213: 9143611366595753553
+    second: JimNew_269
+  - first:
+      213: 9187677221656098201
+    second: JimNew_270
+  - first:
+      213: 4859070804350069756
+    second: JimNew_271
+  - first:
+      213: 136494338521808210
+    second: JimNew_272
+  - first:
+      213: 176384194695462846
+    second: JimNew_273
+  - first:
+      213: -1249035591979406477
+    second: JimNew_274
+  - first:
+      213: 663828981307806202
+    second: JimNew_275
+  - first:
+      213: 2870607386212728001
+    second: JimNew_276
+  - first:
+      213: -7912162260652084940
+    second: JimNew_277
+  - first:
+      213: 6211802817317880648
+    second: JimNew_278
+  - first:
+      213: -5013514155096668840
+    second: JimNew_279
+  - first:
+      213: 5103354384784194536
+    second: JimNew_280
+  - first:
+      213: -3971602535159635800
+    second: JimNew_281
+  - first:
+      213: -9002235908774902241
+    second: JimNew_282
+  - first:
+      213: 638154092204569692
+    second: JimNew_283
+  - first:
+      213: -4285774228375168242
+    second: JimNew_284
+  - first:
+      213: 5576352969593996936
+    second: JimNew_285
+  - first:
+      213: 2939289979951358977
+    second: JimNew_286
+  - first:
+      213: 3307888785522426466
+    second: JimNew_287
+  - first:
+      213: -5745349698961247939
+    second: JimNew_288
+  - first:
+      213: 7664333491521447457
+    second: JimNew_289
+  - first:
+      213: 5419617332467616423
+    second: JimNew_290
+  - first:
+      213: -1766617187019778683
+    second: JimNew_291
+  - first:
+      213: -6756772139440648104
+    second: JimNew_292
+  - first:
+      213: 4704625115442597168
+    second: JimNew_293
+  - first:
+      213: -6161417175100129835
+    second: JimNew_294
+  - first:
+      213: 6182768554906969152
+    second: JimNew_295
+  - first:
+      213: 8178935808225307559
+    second: JimNew_296
+  - first:
+      213: -6031408230723138032
+    second: JimNew_297
+  - first:
+      213: -614151647647332916
+    second: JimNew_298
+  - first:
+      213: 6800359185440243606
+    second: JimNew_299
+  - first:
+      213: -6507247760293821585
+    second: JimNew_300
+  - first:
+      213: 4422447442977070167
+    second: JimNew_301
+  - first:
+      213: 1740426822685899729
+    second: JimNew_302
+  - first:
+      213: 6743266679534999658
+    second: JimNew_303
+  - first:
+      213: 2714739490109043323
+    second: JimNew_304
+  - first:
+      213: -7482579933482953640
+    second: JimNew_305
+  - first:
+      213: 3619652417759424242
+    second: JimNew_306
+  - first:
+      213: -2823927193879571241
+    second: JimNew_307
+  - first:
+      213: -6736678833516094688
+    second: JimNew_308
+  - first:
+      213: 295443424089730525
+    second: JimNew_309
+  - first:
+      213: 6130495486195845035
+    second: JimNew_310
+  - first:
+      213: 8796624973405138
+    second: JimNew_311
+  - first:
+      213: 1715179565087764372
+    second: JimNew_312
+  - first:
+      213: -8411191891090439216
+    second: JimNew_313
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JimNew_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1699
+        width: 73
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913333096885e98a0800000000000000
+      internalID: -6296497894049238247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1699
+        width: 91
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94afdd1ad594c6930800000000000000
+      internalID: 4137762824143108681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1699
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f45740ae5134740800000000000000
+      internalID: 5134972094973824891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1699
+        width: 80
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1323999036ca9590800000000000000
+      internalID: -7666597503607561443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1701
+        width: 57
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd3ef5bb6bab5250800000000000000
+      internalID: 5934525413093948927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1699
+        width: 41
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8463747198ae9340800000000000000
+      internalID: 4872517189538899083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1699
+        width: 116
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0889eee297b93bed0800000000000000
+      internalID: -2399403231677605760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1699
+        width: 81
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e98941d142f11d0800000000000000
+      internalID: -3377941488186384743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1699
+        width: 74
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5974e216eb3897d0800000000000000
+      internalID: -2911511299749545637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_9
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1699
+        width: 66
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f97de5fea83770800000000000000
+      internalID: 8590808660483633892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1699
+        width: 76
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ebfe4fc42426e0800000000000000
+      internalID: -1863323873022580515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_11
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1699
+        width: 81
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21f01d4a983b4180800000000000000
+      internalID: -9130141584194473684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_12
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1699
+        width: 62
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3337c7c650e3486d0800000000000000
+      internalID: -2989196059651312845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_13
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1700
+        width: 60
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0877cb2b12f8a8a70800000000000000
+      internalID: 8830027394308667264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_14
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1700
+        width: 63
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466bf0b0e97458b0800000000000000
+      internalID: -5164368866738215353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_15
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1700
+        width: 62
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece5ecc1f001fcc0800000000000000
+      internalID: -3679158382060245792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_16
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1700
+        width: 62
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cddd6b0921aff0800000000000000
+      internalID: -26694993722881619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_17
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1700
+        width: 62
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc99b67d6eda6c60800000000000000
+      internalID: 7812301065352223934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_18
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1700
+        width: 64
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a704274ecda533160800000000000000
+      internalID: 7004041750263251066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1576
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d8cbc0b0562a50800000000000000
+      internalID: 6495968232791922596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1576
+        width: 60
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d007b70c63c97e20800000000000000
+      internalID: 3348922666679992535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1576
+        width: 85
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa43e60da9d3ad10800000000000000
+      internalID: 2135789985471875744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1576
+        width: 60
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec36c876583ec90800000000000000
+      internalID: -7141717904295997824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1576
+        width: 32
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a58249548d9740800000000000000
+      internalID: 5160426266939467216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1576
+        width: 60
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f65d6cb9e7aa80800000000000000
+      internalID: -8455532779867279129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1576
+        width: 73
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402235b2341ec4860800000000000000
+      internalID: 7515629556780442116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_26
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1576
+        width: 62
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5480c1f9f11020680800000000000000
+      internalID: -8790462287348758459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1576
+        width: 40
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b92a135079d7dd0800000000000000
+      internalID: -2486665370675274950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1576
+        width: 61
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f045a3b6c5047c760800000000000000
+      internalID: 7478016471952151567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_29
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1576
+        width: 64
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8f40a500c8fc860800000000000000
+      internalID: 7552409033261775055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_30
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1576
+        width: 80
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5244f007701d6a0800000000000000
+      internalID: -6426347015407131205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_31
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1576
+        width: 77
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6597238ed39e2aa0800000000000000
+      internalID: -6183842654440680085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_32
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1576
+        width: 67
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f381f2fc631ff0bd0800000000000000
+      internalID: -2661643637046175681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_33
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1576
+        width: 58
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e0a77131d223700800000000000000
+      internalID: 518526467122531963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_34
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1576
+        width: 60
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949bd6106dfb3cd40800000000000000
+      internalID: 5603533287246903625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_35
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1576
+        width: 62
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee82bdbfaf90270800000000000000
+      internalID: 8217374954734808678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_36
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1576
+        width: 59
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66acd65d35a7530800000000000000
+      internalID: 3853484607304001266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_37
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1576
+        width: 64
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb166dab9c9c860800000000000000
+      internalID: 7550788054561176817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_38
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1576
+        width: 54
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0cc88c3a67ead00800000000000000
+      internalID: 985855814257131765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_39
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1576
+        width: 79
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af3ad04ef10cab0800000000000000
+      internalID: -4989953322784654711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_40
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1576
+        width: 89
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea468b2d3752d3130800000000000000
+      internalID: 3548033260824585390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1446
+        width: 81
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db11d01b26bedbed0800000000000000
+      internalID: -2396500617581489731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1446
+        width: 55
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d7d416bc23ee830800000000000000
+      internalID: 4102272159673318673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1454
+        width: 70
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7cc1dcd29164a0800000000000000
+      internalID: -6601834101638136783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1446
+        width: 64
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542280f57a05ee300800000000000000
+      internalID: 283252506355049029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1446
+        width: 55
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e9d27b928fa2e0800000000000000
+      internalID: -2112326096055049950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1448
+        width: 47
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6111de56f969c8d0800000000000000
+      internalID: -2825610784324644500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1448
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7f5c19697d6a10800000000000000
+      internalID: 1904311709802135363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_48
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1448
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d669cc9ce993e9050800000000000000
+      internalID: 5809143923507762797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_49
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1447
+        width: 61
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3339b3f69e617b060800000000000000
+      internalID: 6969064140228498227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_50
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1447
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a105d9be471cdf10800000000000000
+      internalID: 2295735536944742820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_51
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1447
+        width: 49
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a9d8e06992a9720800000000000000
+      internalID: 2853639038358624878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_52
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1449
+        width: 62
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48de7dca7f6397e90800000000000000
+      internalID: -7027525306150294140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_53
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1447
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11827e20b7c957a00800000000000000
+      internalID: 753680564798040081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_54
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1447
+        width: 50
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb175adce7f8c7c0800000000000000
+      internalID: -4050715268172276756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_55
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1447
+        width: 55
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a24bec87f1460d0800000000000000
+      internalID: -3430582412425024951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_56
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1446
+        width: 62
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0659c170de36ef0800000000000000
+      internalID: -115988550581395229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_57
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1448
+        width: 53
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bf913725aee9cf0800000000000000
+      internalID: -243499689992127741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_58
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1451
+        width: 62
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76b220dd3c056930800000000000000
+      internalID: 4135725292434142847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1332
+        width: 53
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb51b53df97072b0800000000000000
+      internalID: -5588833009132282896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1332
+        width: 69
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1b409801aa5fc20800000000000000
+      internalID: 3239682494957924830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1332
+        width: 53
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac1d653f8d8e7b10800000000000000
+      internalID: 1981176532305779882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1332
+        width: 46
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e336f6e9786adda0800000000000000
+      internalID: -5919303887449869344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1332
+        width: 69
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e834d13b0a3001850800000000000000
+      internalID: 6345575863699719054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_64
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1332
+        width: 53
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3331ddcbd49fbb0800000000000000
+      internalID: -4901801245857860643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1330
+        width: 80
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10999f23e1e5680800000000000000
+      internalID: -8764534620531654186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_66
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1330
+        width: 75
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8c03036b38a0f20800000000000000
+      internalID: 3389666488065509564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1330
+        width: 101
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b234916dc48a831f0800000000000000
+      internalID: -1064916263910161621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_68
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1330
+        width: 128
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c20b0f27dfe723b0800000000000000
+      internalID: -5537193509342477631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_69
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1330
+        width: 153
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c843babd251c4450800000000000000
+      internalID: 6074253283565979849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_70
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1330
+        width: 75
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd25e701fc035a100800000000000000
+      internalID: 118554631088263899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_71
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1330
+        width: 44
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89c30a84cc013860800000000000000
+      internalID: 7507796092071954828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1203
+        width: 72
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a7090f98951070800000000000000
+      internalID: 8076529315577571420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1203
+        width: 67
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b836feb85d8b2240800000000000000
+      internalID: 4768060042802247856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1203
+        width: 91
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f540d34738a84920800000000000000
+      internalID: 2974812509192603128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1203
+        width: 80
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f32eb218e53851c0800000000000000
+      internalID: -4514799355575786506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_76
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1203
+        width: 57
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e049d203762a6eb0800000000000000
+      internalID: -4725922583561027351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_77
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1203
+        width: 46
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637d44a2eb4949da0800000000000000
+      internalID: -5938958464120989898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1229
+        width: 56
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7c8c3af595c7d40800000000000000
+      internalID: 5583435905337182195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_79
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1217
+        width: 57
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5122d07fe65e20800000000000000
+      internalID: 3339119441582578339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_80
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1207
+        width: 62
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aaae0c236fc3bc0800000000000000
+      internalID: -3801893287562139127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_81
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1203
+        width: 62
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef35750c08a9950800000000000000
+      internalID: 6456614579376225811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_82
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1203
+        width: 54
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71545f4286d2be060800000000000000
+      internalID: 6983725572487988503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_83
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1251
+        width: 31
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd47bc0a46d9db90800000000000000
+      internalID: -7216501314355245613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1203
+        width: 69
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7037ce676f6584790800000000000000
+      internalID: -7545685559102115065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_85
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1252
+        width: 29
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda04008a7caa4660800000000000000
+      internalID: 7370893382278974175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_86
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1203
+        width: 65
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27d99ea4cd9f2550800000000000000
+      internalID: 6138298285197743915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_87
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1252
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe5176faccd5620800000000000000
+      internalID: 2764590799996185523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_88
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1203
+        width: 67
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e25d7561e8d78280800000000000000
+      internalID: -9041019264341028123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_89
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1251
+        width: 29
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e45919b5a733320800000000000000
+      internalID: 2536505548842815043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_90
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1203
+        width: 60
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63602aea8e41180800000000000000
+      internalID: -9145429106542364935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_91
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1203
+        width: 62
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb74aa5c58f2b240800000000000000
+      internalID: 4806176827899149300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1079
+        width: 62
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d4f19f9ff43380800000000000000
+      internalID: -8992281495138412613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1079
+        width: 54
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63c77a3951bdb310800000000000000
+      internalID: 1422488054110077807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_94
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1127
+        width: 31
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d663724bc188a50800000000000000
+      internalID: 6523495620323732765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1079
+        width: 80
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd66dc372d4f060800000000000000
+      internalID: 6986440316767624238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_96
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1079
+        width: 75
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c1d69e144c9f740800000000000000
+      internalID: 5186392233261997129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_97
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1079
+        width: 116
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87755df138966d130800000000000000
+      internalID: 3591173764770256760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_98
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1079
+        width: 117
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ec79155f8e1110800000000000000
+      internalID: 1233580943608701713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_99
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1079
+        width: 134
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5326d095599eac0800000000000000
+      internalID: -3825362198765357581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_100
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1079
+        width: 80
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96628c94740648040800000000000000
+      internalID: 4648946574649992809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_101
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1079
+        width: 82
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4d692c7dbe9110800000000000000
+      internalID: 1269660485933681876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_102
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1079
+        width: 69
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93181b0847de28360800000000000000
+      internalID: 7170554641358356793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_103
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1079
+        width: 44
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f576d0303f2f06f10800000000000000
+      internalID: 2261074138482173791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_104
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1109
+        width: 49
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8502de9e1cb408910800000000000000
+      internalID: 1837551944192565336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_105
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1115
+        width: 82
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca554043bed0bf0800000000000000
+      internalID: -356370186848850767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_106
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1114
+        width: 82
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5dc7b1f1b154d30800000000000000
+      internalID: 4414964830125741540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 977
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b5f62e5984ddbd0800000000000000
+      internalID: -2603845200964002925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_108
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 977
+        width: 51
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db8e2a1156ba3e80800000000000000
+      internalID: -8198039712226702384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_109
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 975
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba13a76b4d328d10800000000000000
+      internalID: 2126329368142879420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_110
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 971
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8d7f80e40a3f70800000000000000
+      internalID: 9167645353992621210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_111
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 977
+        width: 71
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a635912b48f68380800000000000000
+      internalID: -8969208606292101469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_112
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 972
+        width: 51
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebf25c3dff7b9120800000000000000
+      internalID: 2421669950257298400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_113
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 972
+        width: 61
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a525e0660b9db370800000000000000
+      internalID: 8339992536657765801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_114
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 972
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f257f07d5dfcaf0800000000000000
+      internalID: -373845124394438811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_115
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 972
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c6d20f0817ad010800000000000000
+      internalID: 1214407848129031190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_116
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 972
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3be9192e4d92f90800000000000000
+      internalID: -6977812078063078436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_117
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 972
+        width: 79
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa08ed869387d7e0800000000000000
+      internalID: -1740778048306279765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_118
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 972
+        width: 49
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a07907a86aa16e80800000000000000
+      internalID: -8187075281127116631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_119
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 976
+        width: 57
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad81fcf848063bfb0800000000000000
+      internalID: -4633253469169444646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_120
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 972
+        width: 44
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf3f582a2e79f950800000000000000
+      internalID: 6483351858107596723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_121
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 975
+        width: 70
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2777b55e3b882f0800000000000000
+      internalID: -970327922034904408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_122
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 975
+        width: 46
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a29df00a9280e0800000000000000
+      internalID: -2269081933196384284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_123
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 975
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236fefc17eb6fb030800000000000000
+      internalID: 3512644874740364850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_124
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 975
+        width: 65
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc90f81967eab40800000000000000
+      internalID: 5453426566334369173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_125
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 975
+        width: 89
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f43c5db0583eba30800000000000000
+      internalID: 4232882619200320756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_126
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 975
+        width: 61
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6636cbb687a58d50800000000000000
+      internalID: 6738976614547601005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_127
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 975
+        width: 65
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334fdb9ded40c9810800000000000000
+      internalID: 1773297708459488307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_128
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 975
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0155d85925374e0800000000000000
+      internalID: -1985152208465489670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_129
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 853
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba8765632be6f1f0800000000000000
+      internalID: -1011362529040430411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_130
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 854
+        width: 57
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d779620fa8dc660800000000000000
+      internalID: 7407729726138580355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_131
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 854
+        width: 32
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7abc034f189d5150800000000000000
+      internalID: 5863009549942569596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_132
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 854
+        width: 62
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320ff3248f9688cb0800000000000000
+      internalID: -4861519282762158045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_133
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 854
+        width: 32
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a8f25ae3e7cfa40800000000000000
+      internalID: 5403332460462180957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_134
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 853
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b50e91c9fbc9ef40800000000000000
+      internalID: 5758357872125543859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_135
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 849
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244cecdcb44566230800000000000000
+      internalID: 3631682834073044034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_136
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 855
+        width: 77
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7fff9eb7546fa40800000000000000
+      internalID: 5401581201586649054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_137
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 855
+        width: 62
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0652b4828c3dba0800000000000000
+      internalID: -6065284197752938274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_138
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 855
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c392f21fac709f20800000000000000
+      internalID: 3427376407807955912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_139
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 853
+        width: 61
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1125341a29fc4d0800000000000000
+      internalID: -3112107596172881434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_140
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 853
+        width: 80
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139fd3d86c6117c20800000000000000
+      internalID: 3202365852066117937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_141
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 853
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86abd4ca318ed00800000000000000
+      internalID: 1002072547849300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_142
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 850
+        width: 51
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce0e9f060536310800000000000000
+      internalID: 1397048686854335520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_143
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 849
+        width: 70
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d4d70062a53a0c0800000000000000
+      internalID: -4565706477960082140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_144
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 849
+        width: 55
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb48b67cd19e981d0800000000000000
+      internalID: -3347888533864217409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_145
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 849
+        width: 105
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa813c74baa64e70800000000000000
+      internalID: 9099147789303122605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_146
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 849
+        width: 70
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ca2004c45467580800000000000000
+      internalID: -8829793825619530685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_147
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 853
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1094bbc9744c1c60800000000000000
+      internalID: 7790176745343455261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_148
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 846
+        width: 91
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed65b58a239477f20800000000000000
+      internalID: 3420282923932931806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_149
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 750
+        width: 50
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a02b52e7c11e770800000000000000
+      internalID: 8638216888397204106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_150
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 759
+        width: 57
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893e2d707b7e8520800000000000000
+      internalID: 2706236149162981761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 752
+        width: 74
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb7b967574cbbe40800000000000000
+      internalID: 5673344164383390658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_152
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 749
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0f1f16c873046b0800000000000000
+      internalID: -5314186484218990372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 754
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2492553dbd4d28b0800000000000000
+      internalID: -5175394921740069843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_154
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 765
+        width: 62
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83896268b1610e860800000000000000
+      internalID: 7557064482198296632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_155
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 752
+        width: 107
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e223be7a5a4440800000000000000
+      internalID: 4920845043073476222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_156
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 767
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e73d7275438040800000000000000
+      internalID: 4648635598405886402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_157
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 751
+        width: 85
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432f6dd6650c975b0800000000000000
+      internalID: -5370049603220082124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_158
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 740
+        width: 44
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344309901fefeddf0800000000000000
+      internalID: -153405026082999229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_159
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 754
+        width: 57
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480e74e9aed977970800000000000000
+      internalID: 8752638031821267076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_160
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 754
+        width: 98
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0c411a8a9abd70800000000000000
+      internalID: 9059723518195534894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_161
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 761
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dfb03e3d4dc09a0800000000000000
+      internalID: -6265398975066800888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_162
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 761
+        width: 51
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687c132e70938c360800000000000000
+      internalID: 7190059511119464326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_163
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 757
+        width: 66
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc9b19318a530320800000000000000
+      internalID: 2522959727313001718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_164
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 752
+        width: 81
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d417c3a127d9d70800000000000000
+      internalID: 9051516283093339447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_165
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 754
+        width: 73
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57322a46874ea0230800000000000000
+      internalID: 3605945657399059317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_166
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 751
+        width: 76
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef868c090a0360bb0800000000000000
+      internalID: -4970231672574809858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_167
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 751
+        width: 69
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5adc6fc93791c1d0800000000000000
+      internalID: -3332215974728508835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_168
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 637
+        width: 53
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f0490b56edb0700800000000000000
+      internalID: 507743911344869131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_169
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 638
+        width: 35
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2318e3a1e65ab00800000000000000
+      internalID: 839197964571325096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_170
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 638
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6f5e6cda19f620800000000000000
+      internalID: 2808305376689089498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_171
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 639
+        width: 50
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a1bb7924d2e9f0800000000000000
+      internalID: -440556538894900116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_172
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 717
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7573df8cf4b410800000000000000
+      internalID: 1492095071224691401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_173
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 716
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c3c3647440cfe0800000000000000
+      internalID: -1170860636435659137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_174
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 715
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01531823360c1110800000000000000
+      internalID: 1232867214778126603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_175
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 715
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27cabdaaf1b8770800000000000000
+      internalID: 8614013530966618825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_176
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 716
+        width: 33
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309ea52e4475f010800000000000000
+      internalID: 1222010752889425972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_177
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 715
+        width: 21
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babbcb855bd4b9700800000000000000
+      internalID: 548117220928830379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_178
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 713
+        width: 26
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30363c84f58ca9f0800000000000000
+      internalID: -455842176900386753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_179
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 711
+        width: 41
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1287d5adfaef91a30800000000000000
+      internalID: 4186657359853877281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 637
+        width: 58
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da602040dec3110800000000000000
+      internalID: 1242128198717058345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_181
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 636
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a80e3df8483b800800000000000000
+      internalID: 626990526404528715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_182
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 641
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13398d16cabb28890800000000000000
+      internalID: -7457191683921767631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_183
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 639
+        width: 107
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572d208c8cbfaa30800000000000000
+      internalID: 4228805886756071258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_184
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 652
+        width: 62
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb12cec2e0d8c8450800000000000000
+      internalID: 6092399487948169662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_185
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d821c1d696e550800000000000000
+      internalID: 6189800565500334391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_186
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 639
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747973a1b2a7ac070800000000000000
+      internalID: 8127442803085514567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_187
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 639
+        width: 81
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc814bdf30c6e0960800000000000000
+      internalID: 7570106788053522639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_188
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 637
+        width: 67
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b882b5a9e6792ef10800000000000000
+      internalID: 2297565261204236427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_189
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 638
+        width: 75
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbeeeb3439dcb050800000000000000
+      internalID: 5817763637022878681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_190
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 641
+        width: 65
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac905c21ca6ae6670800000000000000
+      internalID: 8533941601893157322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_191
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 641
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd6b5ba80a24150800000000000000
+      internalID: 5855418983149656890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_192
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 655
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ecab74bd126c890800000000000000
+      internalID: -7438220508870816227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_193
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 642
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9cc951bcb637150800000000000000
+      internalID: 5869153259379018145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_194
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 644
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed0fab434f3543c0800000000000000
+      internalID: -4376021904655446559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_195
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 644
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c60de85fb1ee6c0800000000000000
+      internalID: -4112318668265722740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_196
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 644
+        width: 42
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea25874867b29840800000000000000
+      internalID: 5229443775834958564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_197
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 644
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ce719d1f96af750800000000000000
+      internalID: 6339495912927652926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_198
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 644
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b8cb865fe73e10800000000000000
+      internalID: 2177472099848335565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_199
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 518
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a01fc70735949e0800000000000000
+      internalID: -1636685246974850521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_200
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 517
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a650d027369910800000000000000
+      internalID: 1843721711528618196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_201
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 514
+        width: 49
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588c0f31cb7326c20800000000000000
+      internalID: 3198179966314399877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_202
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 519
+        width: 62
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bff9dde5000fad0800000000000000
+      internalID: -2670634171585528959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_203
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 530
+        width: 70
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21845032bea2b8090800000000000000
+      internalID: -8031278321091917806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_204
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 543
+        width: 77
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e213427edf6f79b70800000000000000
+      internalID: 8905858358513512750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_205
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 529
+        width: 72
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a14b613aef2a6450800000000000000
+      internalID: 6082726929615241636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_206
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 517
+        width: 83
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db8daccd31ac6f0800000000000000
+      internalID: -663696156066792081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_207
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 529
+        width: 68
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4398ec9c47fc6c2f0800000000000000
+      internalID: -952846170633369292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_208
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 526
+        width: 76
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff91b32641b89730800000000000000
+      internalID: 4006146783350726646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_209
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 526
+        width: 69
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db65e1e9beb3f690800000000000000
+      internalID: -7569496843111535662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_210
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 407
+        width: 62
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3007a4775d3820800000000000000
+      internalID: 2899569893626100828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_211
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 403
+        width: 59
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ba6714264d83f40800000000000000
+      internalID: 5708546046162283289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_212
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 412
+        width: 70
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5ab39162ae0e3f0800000000000000
+      internalID: -873440878356879937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_213
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 432
+        width: 66
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff60ad936b5c48530800000000000000
+      internalID: 3856424567381296895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_214
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 415
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7fae1546b828f0800000000000000
+      internalID: -565001345251181795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_215
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 433
+        width: 66
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efc74f6dff76140800000000000000
+      internalID: 4713016833756429913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_216
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 421
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172f0e2a1897e860800000000000000
+      internalID: 7559177737773983511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_217
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 416
+        width: 81
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbabbbde9c0135f50800000000000000
+      internalID: 6868852316133112508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_218
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 416
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40c311f906c1170800000000000000
+      internalID: 8150495661938967761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_219
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 416
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43753d30630b2fe60800000000000000
+      internalID: 7994646034574956340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_220
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 416
+        width: 79
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95163e8c5145c02b0800000000000000
+      internalID: -5617022182696459943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_221
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 420
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada28673c4b3ef8a0800000000000000
+      internalID: -6269508432720024870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_222
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 401
+        width: 57
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9a3086bd01b7e0800000000000000
+      internalID: -1751603702583878949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_223
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 404
+        width: 51
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a943ea6d7e70c4cc0800000000000000
+      internalID: -3725594099421662054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_224
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 404
+        width: 52
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97a4b01748510f40800000000000000
+      internalID: 5692928466219214749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_225
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 405
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5669a208418393150800000000000000
+      internalID: 5852770851445446245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_226
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 405
+        width: 48
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e8264f7d54c2f80800000000000000
+      internalID: -8130046433490203046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_227
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 405
+        width: 78
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe351faea017eb670800000000000000
+      internalID: 8556400633755816943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_228
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 370
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08121d1fbbf8eff0800000000000000
+      internalID: -6478601196005364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_229
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 280
+        width: 46
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab94addf020a539f0800000000000000
+      internalID: -489308920941491782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_230
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 279
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe2db697aa96fa40800000000000000
+      internalID: 5401674847656685244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_231
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 279
+        width: 70
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c502789a7d422c0800000000000000
+      internalID: -4457200608073458621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_232
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 279
+        width: 67
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862634aff583a80d0800000000000000
+      internalID: -3419858982162701720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_233
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 279
+        width: 69
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c51c08eaf12a10800000000000000
+      internalID: 1883061993759687486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_234
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 279
+        width: 63
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436ecfa1f42976f0800000000000000
+      internalID: -686476847742033075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_235
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 355
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648e2bd17437f17e0800000000000000
+      internalID: -1792587377392031674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_236
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 279
+        width: 64
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84228ef51b5211860800000000000000
+      internalID: 7498816298297074248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_237
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 279
+        width: 64
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb18109dcaad4b40800000000000000
+      internalID: 5426180925913832395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_238
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 279
+        width: 65
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfea203334bf87fc0800000000000000
+      internalID: -3496768844615995653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_239
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 277
+        width: 67
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80768c82b9af3050800000000000000
+      internalID: 5782527030893899918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_240
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 277
+        width: 53
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773ee5b961e8e20b0800000000000000
+      internalID: -5751503446358432905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_241
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 278
+        width: 35
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72474ceeaa1e399c0800000000000000
+      internalID: -3921542726243027929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_242
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 277
+        width: 92
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14304b4591f5d52a0800000000000000
+      internalID: -6747132104331230399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_243
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 279
+        width: 78
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef324d639f8c550c0800000000000000
+      internalID: -4587539672714697730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_244
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 279
+        width: 63
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c3dda0c61248710800000000000000
+      internalID: 1694516107720604799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_245
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 279
+        width: 70
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1f6eb650efc970800000000000000
+      internalID: 8777480861935147880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_246
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 277
+        width: 108
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3048306c8b0fc6ca0800000000000000
+      internalID: -6022173925314427901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_247
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 51
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6006f8f8c4aa7160800000000000000
+      internalID: 7024107751914995821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_248
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 53
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3ba3908e868770800000000000000
+      internalID: 8612728020277082717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_249
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 169
+        width: 60
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1c8a9d19df4a160800000000000000
+      internalID: 7036027320723358207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_250
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 155
+        width: 57
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a09a329cf76a900800000000000000
+      internalID: 695383694338755075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_251
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 157
+        width: 45
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5617df238fd0afb0800000000000000
+      internalID: -4638461861655275942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_252
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 190
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f59e88f832116f0800000000000000
+      internalID: -715751766390907109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_253
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 209
+        width: 92
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502ce191693764f0800000000000000
+      internalID: -835636114631155628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_254
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 155
+        width: 58
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a4286f289584e0800000000000000
+      internalID: -1980009131781349274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_255
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 146
+        width: 102
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8556cbd6fbcb8660800000000000000
+      internalID: 7389223874741032332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_256
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 159
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e807469fc24d10800000000000000
+      internalID: 2108475819906623091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_257
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 158
+        width: 53
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f50aca493722710800000000000000
+      internalID: 1667021894469050199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_258
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 158
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cf3f5869e006070800000000000000
+      internalID: 8097488169667394568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_259
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 192
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9293171de796402d0800000000000000
+      internalID: -3313407432437188311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_260
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 160
+        width: 69
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7bcaed38febefb0800000000000000
+      internalID: -4617333643282696193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_261
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 215
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e3e09d830a6d100800000000000000
+      internalID: 132469405074210393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_262
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 188
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ecd4f41b94f280800000000000000
+      internalID: -9010406440151752085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_263
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 138
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0951607360e015130800000000000000
+      internalID: 3553637000827770256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_264
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 148
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584c92c676608aca0800000000000000
+      internalID: -6005543061832481659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_265
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 160
+        width: 59
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f852c9ea3ef126520800000000000000
+      internalID: 2693750589868483983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_266
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 160
+        width: 55
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab74bddabc2bb5c0800000000000000
+      internalID: -4198713046497723483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_267
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 160
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb2bc45852fc2a00800000000000000
+      internalID: 733227300548193253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_268
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 151
+        width: 67
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dc7b3a66cf391c0800000000000000
+      internalID: -4497974085049397863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_269
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 158
+        width: 71
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156f92ec712a4ee70800000000000000
+      internalID: 9143611366595753553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_270
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 154
+        width: 85
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99572c331cf218f70800000000000000
+      internalID: 9187677221656098201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_271
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 154
+        width: 82
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbe1cfe623ee6340800000000000000
+      internalID: 4859070804350069756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_272
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 13
+        width: 45
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25db171b0ece4e100800000000000000
+      internalID: 136494338521808210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_273
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 17
+        width: 68
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebff0d49d74a27200800000000000000
+      internalID: 176384194695462846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_274
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 102
+        width: 29
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b6f3c2fb88aaee0800000000000000
+      internalID: -1249035591979406477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_275
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 101
+        width: 29
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1167ef0f4663900800000000000000
+      internalID: 663828981307806202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_276
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 99
+        width: 48
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc72d8653276d720800000000000000
+      internalID: 2870607386212728001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_277
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 96
+        width: 42
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431b498285a523290800000000000000
+      internalID: -7912162260652084940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_278
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 110
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c00530c1c43650800000000000000
+      internalID: 6211802817317880648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_279
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 93
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855021d407b6c6ab0800000000000000
+      internalID: -5013514155096668840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_280
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 93
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb7ef336c1c2d640800000000000000
+      internalID: 5103354384784194536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_281
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 93
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e4c6698802e8c0800000000000000
+      internalID: -3971602535159635800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_282
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 93
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c4390322a11380800000000000000
+      internalID: -9002235908774902241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_283
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 93
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b0d904cd2bd800800000000000000
+      internalID: 638154092204569692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_284
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 93
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b9c2adb0fd584c0800000000000000
+      internalID: -4285774228375168242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_285
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 71
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88648d62b7f236d40800000000000000
+      internalID: 5576352969593996936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_286
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 16
+        width: 76
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104addae9a47ac820800000000000000
+      internalID: 2939289979951358977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_287
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 15
+        width: 61
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2620091135bf7ed20800000000000000
+      internalID: 3307888785522426466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_288
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 15
+        width: 47
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31740393ea6440b0800000000000000
+      internalID: -5745349698961247939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_289
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 17
+        width: 68
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e34204be2d5a60800000000000000
+      internalID: 7664333491521447457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_290
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 14
+        width: 59
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4840ef39563b40800000000000000
+      internalID: 5419617332467616423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_291
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 78
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58516914707bb77e0800000000000000
+      internalID: -1766617187019778683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_292
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 76
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505260c98f1b32a0800000000000000
+      internalID: -6756772139440648104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_293
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 74
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d4657cd9f2a4140800000000000000
+      internalID: 4704625115442597168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_294
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 75
+        width: 41
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7a2d49bf3e7aa0800000000000000
+      internalID: -6161417175100129835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_295
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 75
+        width: 36
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0446fa33e3b9dc550800000000000000
+      internalID: 6182768554906969152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_296
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 66
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abedf1a8ca618170800000000000000
+      internalID: 8178935808225307559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_297
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 66
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e41608b222c4ca0800000000000000
+      internalID: -6031408230723138032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_298
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 18
+        width: 72
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc582c394581a77f0800000000000000
+      internalID: -614151647647332916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_299
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 11
+        width: 93
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ffa3936aabf5e50800000000000000
+      internalID: 6800359185440243606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_300
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 16
+        width: 109
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f630b3e83ac91b5a0800000000000000
+      internalID: -6507247760293821585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_301
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 14
+        width: 59
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9b7ca480bf5d30800000000000000
+      internalID: 4422447442977070167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_302
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 17
+        width: 80
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db31cb59fc372810800000000000000
+      internalID: 1740426822685899729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_303
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 56
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6859635155e49d50800000000000000
+      internalID: 6743266679534999658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_304
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 54
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72bca5de21bca520800000000000000
+      internalID: 2714739490109043323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_305
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 52
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8545845e139882890800000000000000
+      internalID: -7482579933482953640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_306
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 53
+        width: 41
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe2fea32b69b3230800000000000000
+      internalID: 3619652417759424242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_307
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 53
+        width: 36
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41e31dd256fc8d0800000000000000
+      internalID: -2823927193879571241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_308
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 32
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b516a1b428282a0800000000000000
+      internalID: -6736678833516094688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_309
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 30
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde7189a30a91400800000000000000
+      internalID: 295443424089730525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_310
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 28
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c6d7f925e31550800000000000000
+      internalID: 6130495486195845035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_311
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 29
+        width: 41
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db13cadb704f1000800000000000000
+      internalID: 8796624973405138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_312
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 29
+        width: 36
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa01f1aba8dc710800000000000000
+      internalID: 1715179565087764372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JimNew_313
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 4
+        width: 112
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d388e91a81754b80800000000000000
+      internalID: -8411191891090439216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

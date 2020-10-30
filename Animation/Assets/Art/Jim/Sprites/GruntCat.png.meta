@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: dffc9860f16834f62acc7b3d1dd28375
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1947216621473757498
+    second: GruntCat_0
+  - first:
+      213: -1088476682873313783
+    second: GruntCat_1
+  - first:
+      213: -5450369235542941440
+    second: GruntCat_2
+  - first:
+      213: 6912586103331749359
+    second: GruntCat_3
+  - first:
+      213: -320273247931158659
+    second: GruntCat_4
+  - first:
+      213: -3348094897048039399
+    second: GruntCat_5
+  - first:
+      213: 5394707996736350409
+    second: GruntCat_6
+  - first:
+      213: 1344350593569215542
+    second: GruntCat_7
+  - first:
+      213: -7152145836546236395
+    second: GruntCat_8
+  - first:
+      213: -7490865993694184936
+    second: GruntCat_9
+  - first:
+      213: -8030763607748944182
+    second: GruntCat_10
+  - first:
+      213: -4691354581875204920
+    second: GruntCat_11
+  - first:
+      213: -7373577907216129783
+    second: GruntCat_12
+  - first:
+      213: -5847929699931386061
+    second: GruntCat_13
+  - first:
+      213: -1847094362593426328
+    second: GruntCat_14
+  - first:
+      213: -7152025034121544578
+    second: GruntCat_15
+  - first:
+      213: 6811503984777636513
+    second: GruntCat_16
+  - first:
+      213: 1453092658176131578
+    second: GruntCat_17
+  - first:
+      213: 7509149798399166360
+    second: GruntCat_18
+  - first:
+      213: 7706546456435593587
+    second: GruntCat_19
+  - first:
+      213: 4521594657016620608
+    second: GruntCat_20
+  - first:
+      213: 6127288768377689876
+    second: GruntCat_21
+  - first:
+      213: -896942487654942975
+    second: GruntCat_22
+  - first:
+      213: -9202285405281313356
+    second: GruntCat_23
+  - first:
+      213: 8544652876994122933
+    second: GruntCat_24
+  - first:
+      213: -2549233663543357301
+    second: GruntCat_25
+  - first:
+      213: 4141319394012430876
+    second: GruntCat_26
+  - first:
+      213: 8048642614233269881
+    second: GruntCat_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GruntCat_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 258
+        width: 68
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39fdaf4337e50b10800000000000000
+      internalID: 1947216621473757498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 258
+        width: 71
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066a035934f4e0f0800000000000000
+      internalID: -1088476682873313783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 257
+        width: 87
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001eebcbe066c54b0800000000000000
+      internalID: -5450369235542941440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 79
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedf360cf607eef50800000000000000
+      internalID: 6912586103331749359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 257
+        width: 57
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa00a8d292e8bf0800000000000000
+      internalID: -320273247931158659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 257
+        width: 68
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910572b1e6d2981d0800000000000000
+      internalID: -3348094897048039399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 256
+        width: 66
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8ed64375addda40800000000000000
+      internalID: 5394707996736350409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 181
+        width: 73
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634574ffdb718a210800000000000000
+      internalID: 1344350593569215542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 181
+        width: 83
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5106fde51497ebc90800000000000000
+      internalID: -7152145836546236395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 188
+        width: 80
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81afdc921191b0890800000000000000
+      internalID: -7490865993694184936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 191
+        width: 60
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace5dfc2c0ffc8090800000000000000
+      internalID: -8030763607748944182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 192
+        width: 64
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc5de71dd5f4eeb0800000000000000
+      internalID: -4691354581875204920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 188
+        width: 68
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e6b4d5f9cba990800000000000000
+      internalID: -7373577907216129783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 189
+        width: 78
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f022cebeaf7dea0800000000000000
+      internalID: -5847929699931386061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 85
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8640efaa67dcd56e0800000000000000
+      internalID: -1847094362593426328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 111
+        width: 81
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cfb70ef17eebc90800000000000000
+      internalID: -7152025034121544578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 114
+        width: 107
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa24d609c2578e50800000000000000
+      internalID: 6811503984777636513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 114
+        width: 110
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10154e21c6a2410800000000000000
+      internalID: 1453092658176131578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_18
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 122
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89747cad4fbd53860800000000000000
+      internalID: 7509149798399166360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 115
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37193eccb2723fa60800000000000000
+      internalID: 7706546456435593587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_20
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 118
+        width: 92
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a7c5526eefbe30800000000000000
+      internalID: 4521594657016620608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_21
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 121
+        width: 102
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417946bcba0880550800000000000000
+      internalID: 6127288768377689876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 38
+        width: 113
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1073f574f8b6d83f0800000000000000
+      internalID: -896942487654942975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 104
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd12700e2aea4080800000000000000
+      internalID: -9202285405281313356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 37
+        width: 91
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b411462584b49670800000000000000
+      internalID: 8544652876994122933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 31
+        width: 88
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d70b4d7d4f9cd0800000000000000
+      internalID: -2549233663543357301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 36
+        width: 79
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c120c851c0ce87930800000000000000
+      internalID: 4141319394012430876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GruntCat_27
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 37
+        width: 77
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976027960d582bf60800000000000000
+      internalID: 8048642614233269881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
